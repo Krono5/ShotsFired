@@ -206,8 +206,9 @@ background-size: cover;
 background-attachment: fixed;
 }
 .div-trans {
+    padding-top: 5px;
     padding-left: 5px;
-    padding-right: 5px
+    padding-right: 5px;
     padding-bottom: 0px;
     background-color: rgba(0, 255, 41, 0.25);
 margin-top: 200px;
