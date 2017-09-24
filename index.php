@@ -40,7 +40,7 @@
 		<?php include("header.html");?>
 	</div>
 
-	<a name="top_home">
+	<a name="top_home"></a>
 
 	<div id="home">
 
