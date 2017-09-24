@@ -47,7 +47,7 @@
 		<div class="container">
 			<div class="row ">
 				<div class="col-md-8 col-sm-6">
-					<div class="head-main">Welcome to ShotsFired!</div>
+					<div class="head-main">ShotsFired</div>
 					<div class="head-sub-main">The Stream Team</div>
 					<div class="head-last">
 						Doing dumb shit since '13.
