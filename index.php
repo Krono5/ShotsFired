@@ -48,7 +48,7 @@
 			<div class="row ">
 				<div class="col-md-8 col-sm-6">
 					<h1 class="head-main">ShotsFired</h1>
-					<h2 class="head-sub-main">The Stream Team</h2>
+					<span class="head-sub-main">The Stream Team</span>
 					<div class="head-last">
 
 						Doing dumb shit since '13.
