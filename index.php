@@ -95,21 +95,21 @@
 
 			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2">
-					<h2>Our Services</h2>
+					<h2>What We Do</h2>
 
 				</div>
 
 			</div>
 
 			<div class="row text-center space-pad">
-				<div class="col-md-3 col-sm-3">
+				<div class="col-md-4 col-sm-4">
 
 					<div>
 
-						<i class="fa fa-camera fa-4x main-color"></i>
+						<i class="fa fa-twitch"></i>
 
 
-						<h3>Responsive </h3>
+						<h3>Streaming</h3>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</p>
@@ -117,14 +117,14 @@
 					</div>
 
 				</div>
-				<div class="col-md-3 col-sm-3">
+				<div class="col-md-4 col-sm-4">
 
 					<div>
 
-						<i class="fa fa-briefcase fa-4x main-color"></i>
+						<i class="fa fa-youtube-play"></i>
 
 
-						<h3>100% Free </h3>
+						<h3>Youtube</h3>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</p>
@@ -132,7 +132,7 @@
 					</div>
 
 				</div>
-				<div class="col-md-3 col-sm-3">
+				<div class="col-md-4 col-sm-4">
 
 					<div>
 
@@ -140,21 +140,6 @@
 
 
 						<h3>Clean Code </h3>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-						</p>
-
-					</div>
-
-				</div>
-				<div class="col-md-3 col-sm-3">
-
-					<div>
-
-						<i class="fa fa-folder fa-4x main-color"></i>
-
-
-						<h3>Read to Use </h3>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</p>
