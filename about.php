@@ -61,8 +61,7 @@
         <div class="row" style="text-align:left">
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="https://twitch.tv/odegacast" target="_blank">
-                <img alt="" class="team-img" src="img/Odega.jpg">
+              <img alt="" class="team-img" src="img/Odega.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">Odega</span>
                 <span class="card-text">Master of Bots</span>
@@ -81,14 +80,13 @@
                 <p>
                   Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
                 </p>
-              </div></a>
+              </div>
             </div>
           </div>
 
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="https://twitch.tv/r3vak" target="_blank">
-                <img alt="" class="team-img" src="img/R3vak.jpg">
+              <img alt="" class="team-img" src="img/R3vak.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">R3VAK</span>
                 <span class="card-text">Lord of Buckets</span>
@@ -111,14 +109,13 @@
                 <p>
                   Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
                 </p>
-              </div></a>
+              </div>
             </div>
           </div>
 
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="https://twitch.tv/vitanimaru" target="_blank">
-                <img alt="" class="team-img" src="img/Vitani.jpg">
+              <img alt="" class="team-img" src="img/Vitani.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">Vitani</span>
                 <span class="card-text">Queen of France</span>
@@ -138,7 +135,7 @@
                 <p>
                   Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
                 </p>
-              </div></a>
+              </div>
             </div>
           </div>
 
@@ -179,8 +176,7 @@
         <div class="row">
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="https://twitch.tv/yoloswagbabyducks" target="_blank">
-                <img alt="" class="team-img" src="img/BabyDucks.jpg">
+              <img alt="" class="team-img" src="img/BabyDucks.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">BabyDucks</span>
                 <span class="card-text">Quack Quack</span>
@@ -201,7 +197,7 @@
                 <p>
                   Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
                 </p>
-              </div></a>
+              </div>
             </div>
           </div>
         </div>
