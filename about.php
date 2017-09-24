@@ -63,9 +63,9 @@
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
               <a href="#"><img alt="" class="team-img" src="img/Kr0n05.jpg">
-              <div class="card-body">
-                <h4 class="card-title">KR0N05</h4>
-                <p class="card-text">Odega's Babysitter</p>
+              <div class="card-title-wrap">
+                <span class="card-title">KR0N05</span>
+                <span class="card-text">Build Master</span>
               </div>
 
               <div class="team-over">
