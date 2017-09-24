@@ -127,13 +127,13 @@
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
-								<li class="active"><a href="#home-pills" data-toggle="tab">You</a>
+								<li class="active"><a href="#home-pills" data-toggle="tab">This</a>
 								</li>
-								<li class=""><a href="#profile-pills" data-toggle="tab">Dumb</a>
+								<li class=""><a href="#profile-pills" data-toggle="tab">Does</a>
 								</li>
-								<li class=""><a href="#messages-pills" data-toggle="tab">Slut</a>
+								<li class=""><a href="#messages-pills" data-toggle="tab">Not</a>
 								</li>
-								<li class=""><a href="#settings-pills" data-toggle="tab">Tyler</a>
+								<li class=""><a href="#settings-pills" data-toggle="tab">Work</a>
 								</li>
 							</ul>
 
