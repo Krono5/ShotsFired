@@ -204,7 +204,6 @@ background-repeat: no-repeat;
 background-position: center 0;
 background-size: cover;
 background-attachment: fixed;
-min-height:650px;
 }
 .div-trans {
     padding:5px;
@@ -214,7 +213,7 @@ color: #fff;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
-margin-bottom:30px;
+margin-bottom:200px;
 }
     .div-trans .form-control {
         background-color: rgba(255, 255, 255, 0);
