@@ -46,17 +46,17 @@
 
 		<div class="container">
 			<div class="row ">
-				<div class="col-md-9 col-sm-9">
+				<div class="col-md-7 col-sm-7">
 					<h1 class="head-main">Welcome to <br> ShotsFired!</h1>
 					<span class="head-sub-main">The Stream Team</span>
 					<div class="head-last">
-						Doing dumb shit since '13
+						Doing dumb shit since '13.
 					</div>
 
 				</div>
-				<div class="col-md-3 col-sm-3">
+				<div class="col-md-5 col-sm-5">
 					<div class="div-trans text-center">
-						<h3>Request a Quote </h3>
+						<h3>Random Quote:</h3>
 						<form>
 
 							<div class="col-md-12 col-sm-12">
