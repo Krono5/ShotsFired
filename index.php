@@ -130,25 +130,28 @@
 					</div>
 				</div>
 			</div>
-			<div class="row ">
+			<div class="row">
 				<div class="col-md-6 col-sm-6">
 					<h3>Lorem ipsum dolor sit amet</h3>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 					</p>
 				</div>
 				<div class="col-md-6 col-sm-6">
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
-								<li class=""><a href="#home-pills" data-toggle="tab">You</a>
+								<li class="active"><a href="#home-pills" data-toggle="tab">You</a>
 								</li>
-								<li class=""><a href="#profile-pills" data-toggle="tab">Dumb</a>
+								<li class="active"><a href="#profile-pills" data-toggle="tab">Dumb</a>
 								</li>
-								<li class=""><a href="#messages-pills" data-toggle="tab">Slut</a>
+								<li class="active"><a href="#messages-pills" data-toggle="tab">Slut</a>
 								</li>
-								<li class=""><a href="#settings-pills" data-toggle="tab">Tyler</a>
+								<li class="active"><a href="#settings-pills" data-toggle="tab">Tyler</a>
 								</li>
 							</ul>
 
