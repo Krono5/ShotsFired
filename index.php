@@ -47,11 +47,10 @@
 		<div class="container">
 			<div class="row ">
 				<div class="col-md-9 col-sm-9">
-					<h1 class="head-main">Welcome to Shots Fired!</h1>
-					<span class="head-sub-main">This is sum stuffs</span>
+					<h1 class="head-main">Welcome to <br> ShotsFired!</h1>
+					<span class="head-sub-main">The Stream Team</span>
 					<div class="head-last">
-
-						Lorem ipsum dolorLorem ipsum dolorLorem ipsum dolor
+						Doing dumb shit since '13
 					</div>
 
 				</div>
