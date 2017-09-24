@@ -66,7 +66,7 @@
 														"Odega");
 							$q_idx=rand(0,2);
 						?>
-						<h3 align="left" style="padding-left:15px; padding-top:0px; padding-bottom:0px">
+						<h3 align="left" style="padding-left:15px; padding-top:0px; padding-bottom:0px; font-size: 20">
 							<i>"<?php echo($quote[$q_idx]) ?>"</i>
 						</h3>
 						<p align="right" style="padding-right:20px; padding-bottom:0px">
