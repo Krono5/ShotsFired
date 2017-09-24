@@ -111,18 +111,18 @@
 						</p>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-4" style="font-size: 400%">
+				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-twitch"></i>
+						<i class="fa fa-twitch" style="font-size: 400%"></i>
 						<h3>Streaming</h3>
 						<p>
 							Singleplayer, Co-op, and multiplayer! OH MY! Links above.
 						</p>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-4" style="font-size: 400%">
+				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-youtube-play"></i>
+						<i class="fa fa-youtube-play" style="font-size: 400%"></i>
 						<h3>Youtube</h3>
 						<p>
 							I ain't a clip show, but I'll su... make you laugh.
