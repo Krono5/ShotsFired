@@ -63,7 +63,7 @@
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
               <a href="#"><img alt="" class="team-img" src="img/Kr0n05.jpg">
-              <div class="card-title-wrap">
+              <div class="card-title">
                 <span class="card-title">KR0N05</span> <span class="card-text">Odega's Babysitter</span>
               </div>
 
