@@ -65,10 +65,14 @@
 														"Odega");
 							$q_idx=rand(0,2);
 						?>
-						<h3 align="left" style="padding-left:15px; padding-top:0px; padding-bottom:0px; font-size: 20">
+						<h3 align="left" style="padding-left:15px;
+																		padding-top:200px;
+																		padding-bottom:0px;
+																		font-size: 20;
+																		color: #fff">
 							<i>"<?php echo($quote[$q_idx]) ?>"</i>
 						</h3>
-						<p align="right" style="padding-right:20px; padding-bottom:0px">
+						<p align="right" style="padding-right:20px; padding-bottom:0px; color: #fff">
 							~ <?php echo($author[$q_idx]) ?>
 						</p>
 
