@@ -59,7 +59,7 @@
           Meet our Founders
         </h2>
 
-        <div class="row" style="text-align:center">
+        <div class="row" style="text-align:left">
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
               <a href="https://twitch.tv/odegacast"><img alt="" class="team-img" src="img/Odega.jpg">
