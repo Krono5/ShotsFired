@@ -133,7 +133,7 @@
                 </nav>
 
                 <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  Came here to report on eSports and play some horror games, and she's all out of horror games"
                 </p>
               </div>
             </div>
