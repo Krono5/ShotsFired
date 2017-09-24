@@ -104,7 +104,8 @@
                 <nav class="social-nav">
                   <a href="#"><i class="fa fa-twitter"></i></a>
                   <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="twitch.tv/odegacast"><i class="fa fa-twitch"></i></a>
+                  <a href="http://twitch.tv/odegacast" target="_blank">
+                    <i class="fa fa-twitch"></i></a>
                   <a href="#"><i class="fa fa-envelope"></i></a>
                 </nav>
 
@@ -183,7 +184,7 @@
             <div class="card card-block">
               <a href="#"><img alt="" class="team-img" src="img/BabyDucks.jpg">
               <div class="card-title-wrap">
-                <span class="card-title">YoloSwagBabyDucks</span>
+                <span class="card-title">BabyDucks</span>
                 <span class="card-text">Quack Quack</span>
               </div>
 
