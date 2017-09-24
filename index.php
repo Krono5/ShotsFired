@@ -57,30 +57,12 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="div-trans text-center">
 						<h3>Random Quote:</h3>
-						<form>
-
-							<div class="col-md-12 col-sm-12">
-								<div class="form-group">
-									<input type="text" class="form-control" required="required" placeholder="Name">
-								</div>
-							</div>
-							<div class="col-md-12 col-sm-12">
-								<div class="form-group">
-									<input type="text" class="form-control" required="required" placeholder="Email address">
-								</div>
-							</div>
-
-
-							<div class="col-md-12 col-sm-12">
-								<div class="form-group">
-									<textarea name="message" id="Textarea1" required="required" class="form-control" rows="3" placeholder="Message"></textarea>
-								</div>
-								<div class="form-group">
-									<button type="submit" class="btn btn-success">Submit Here </button>
-								</div>
-							</div>
-
-						</form>
+						<p>
+							<i> "Gold hundred is twelve."</i>
+						</p>
+						<p align="right">
+							<i>~ Vitani</i>
+						</p>
 					</div>
 
 				</div>
