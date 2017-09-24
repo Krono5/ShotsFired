@@ -5,14 +5,14 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
-    
+
     <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
     <meta property="og:title" content="">
     <meta property="og:image" content="">
     <meta property="og:url" content="">
     <meta property="og:site_name" content="">
     <meta property="og:description" content="">
-    
+
     <!-- Twitter Cards integration: https://dev.twitter.com/cards/  -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="">
@@ -22,7 +22,7 @@
 
     <title>ShotsFired Stream Team</title>
   <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
-  
+
     <!-- Google Fonts -->
     <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">
  -->
@@ -32,10 +32,10 @@
   <!-- FONTAWESOME STYLE CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
  <!--  <link href="assets/css/font-awesome.min.css" rel="stylesheet" /> -->
- 
+
   <!-- Main Stylesheet File -->
   <link href="assets/css/styleAbout.css" rel="stylesheet">
-    
+
     <!-- =======================================================
       Theme Name: Bell
       Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
@@ -49,8 +49,8 @@
     ================================================== -->
     <div>
       <?php include("header.html");?>
-    </div>  
-   
+    </div>
+
     <!-- Team -->
 
     <section class="team" id="founders">
@@ -158,7 +158,7 @@
     <section class="team" id="streamers">
       <div class="container">
         <h2 class="text-center">
-          Meet our Screamers
+          Meet our Streamers
         </h2>
 
         <div class="row">
@@ -184,82 +184,13 @@
               </div></a>
             </div>
           </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/team-2.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">Sergio Fez</span> <span class="card-text">Art Director</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/team-3.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">Sergio Fez</span> <span class="card-text">Art Director</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/team-4.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">Sergio Fez</span> <span class="card-text">Art Director</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
-            </div>
-          </div>
         </div>
       </div>
     </section>
-    
+
     <div>
       <?php include("footer.html");?>
-    </div>  
-    
+    </div>
+
   </body>
 </html>
