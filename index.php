@@ -57,7 +57,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="div-trans text-center">
-						<h3>Random Quote:</h3>
+						<h3 align="left">Random Quote:</h3>
 						<p style="padding-bottom:0px">
 							<i> "Gold hundred is twelve."</i>
 						</p>
