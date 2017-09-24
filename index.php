@@ -49,9 +49,9 @@
 				<div class="col-md-8 col-sm-6">
 					<h1 class="head-main">Welcome to ShotsFired!</h1>
 					<h3 class="head-sub-main">The Stream Team</h3>
-					<div class="head-last">
+					<p>
 						Doing dumb shit since '13.
-					</div>
+					</p>
 
 				</div>
 				<div class="col-md-4 col-sm-6">
