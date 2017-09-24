@@ -61,7 +61,8 @@
         <div class="row" style="text-align:left">
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="https://twitch.tv/odegacast"><img alt="" class="team-img" src="img/Odega.jpg">
+              <a href="https://twitch.tv/odegacast" target="_blank">
+                <img alt="" class="team-img" src="img/Odega.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">Odega</span>
                 <span class="card-text">Master of Bots</span>
@@ -86,7 +87,7 @@
 
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="https://twitch.tv/r3vak">
+              <a href="https://twitch.tv/r3vak" target="_blank">
                 <img alt="" class="team-img" src="img/R3vak.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">R3VAK</span>
@@ -116,7 +117,7 @@
 
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="https://twitch.tv/vitanimaru">
+              <a href="https://twitch.tv/vitanimaru" target="_blank">
                 <img alt="" class="team-img" src="img/Vitani.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">Vitani</span>
@@ -143,7 +144,7 @@
 
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="https://twitch.tv/kr0n05">
+              <a>
                 <img alt="" class="team-img" src="img/Kr0n05.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">KR0N05</span>
@@ -179,7 +180,8 @@
         <div class="row">
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/BabyDucks.jpg">
+              <a href="https://twitch.tv/yoloswagbabyducks" target="_blank">
+                <img alt="" class="team-img" src="img/BabyDucks.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">BabyDucks</span>
                 <span class="card-text">Quack Quack</span>
@@ -191,10 +193,10 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-linkedin"></i></a>
-                  <a href="#"><i class="fa fa-envelope"></i></a>
+                  <a href="https://twitch.tv/yoloswagbabyducks" target="_blank">
+                    <i class="fa fa-twitch"></i></a>
+                  <a href="https://twitter.com/YoloSwagBabyDuc" target="_blank">
+                    <i class="fa fa-twitter"></i></a>
                 </nav>
 
                 <p>
