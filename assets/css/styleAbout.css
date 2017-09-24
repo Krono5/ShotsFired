@@ -79,7 +79,7 @@
   padding: 15px 25px;
   position: relative;
   z-index: 9;
-  background-color: #fff;
+  background-color: inherit;
 }
 
 .team .card-title-wrap .card-title, .team .card-title-wrap .card-text {

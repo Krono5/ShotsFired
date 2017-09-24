@@ -16,13 +16,15 @@
 		<![endif]-->
 	<title>ShotsFired Stream Team</title>
 	<link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
-	<!--REQUIRED STYLE SHEETS-->
 	<!-- BOOTSTRAP CORE STYLE CSS -->
-	<link href="assets/css/bootstrap.css" rel="stylesheet"/>
+	<link rel="stylesheet" href="assets/css/bootstrap.css" />
+	<!--REQUIRED STYLE SHEETS-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
 	<!-- FONTAWESOME STYLE CSS -->
-	<link href="assets/css/font-awesome.min.css" rel="stylesheet"/>
+	<link  rel="stylesheet" href="assets/css/font-awesome.min.css"/>
 	<!-- CUSTOM STYLE CSS -->
-	<link href="assets/css/style.css" rel="stylesheet"/>
+	<link rel="stylesheet" href="assets/css/style.css" />
 	<!-- GOOGLE FONT -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -32,54 +34,36 @@
 	<![endif]-->
 
 </head>
-
 <body>
 	<!--Header section  -->
 	<div id="header">
 		<?php include("header.html");?>
 	</div>
 
+	<a name="top_home"></a>
+
 	<div id="home">
 
 
 		<div class="container">
 			<div class="row ">
-				<div class="col-md-9 col-sm-9">
-					<h1 class="head-main">Welcome to Shots Fired!</h1>
-					<span class="head-sub-main">This is sum stuffs</span>
+				<div class="col-md-8 col-sm-6">
+					<h1 class="head-main">Shots Fired</h1>
+					<span class="head-sub-main">Stream Team</span>
 					<div class="head-last">
-
-						Lorem ipsum dolorLorem ipsum dolorLorem ipsum dolor
+						Welcome to our website, the hub for all things ShotsFired! <br>
 					</div>
 
 				</div>
-				<div class="col-md-3 col-sm-3">
+				<div class="col-md-4 col-sm-6">
 					<div class="div-trans text-center">
-						<h3>Request a Quote </h3>
-						<form>
-
-							<div class="col-md-12 col-sm-12">
-								<div class="form-group">
-									<input type="text" class="form-control" required="required" placeholder="Name">
-								</div>
-							</div>
-							<div class="col-md-12 col-sm-12">
-								<div class="form-group">
-									<input type="text" class="form-control" required="required" placeholder="Email address">
-								</div>
-							</div>
-
-
-							<div class="col-md-12 col-sm-12">
-								<div class="form-group">
-									<textarea name="message" id="Textarea1" required="required" class="form-control" rows="3" placeholder="Message"></textarea>
-								</div>
-								<div class="form-group">
-									<button type="submit" class="btn btn-success">Submit Here </button>
-								</div>
-							</div>
-
-						</form>
+						<h3 align="left" style="padding-left:15px; padding-top:0px; padding-bottom:0px">Random Quote:</h3>
+						<p style="padding-bottom:0px;">
+							<i> "Gold hundred is twelve."</i>
+						</p>
+						<p align="right" style="padding-right:20px; padding-bottom:0px">
+							~ Vitani
+						</p>
 					</div>
 
 				</div>
@@ -94,94 +78,62 @@
 
 			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2">
-					<h2>Our Services</h2>
-
+					<h2>What We Do</h2>
 				</div>
-
 			</div>
+
 
 			<div class="row text-center space-pad">
-				<div class="col-md-3 col-sm-3">
-
+				<div class="col-md-4 col-sm-4">
 					<div>
-
-						<i class="fa fa-camera fa-4x main-color"></i>
-
-
-						<h3>Responsive </h3>
+						<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
+						<h3>Blogging</h3>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+							Gaming, Tech, and More! Join the discussion above.
 						</p>
-
 					</div>
-
 				</div>
-				<div class="col-md-3 col-sm-3">
-
+				<div class="col-md-4 col-sm-4">
 					<div>
-
-						<i class="fa fa-briefcase fa-4x main-color"></i>
-
-
-						<h3>100% Free </h3>
+						<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
+						<h3>Streaming</h3>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+							Singleplayer, Co-op, and multiplayer! OH MY! Links above.
 						</p>
-
 					</div>
-
 				</div>
-				<div class="col-md-3 col-sm-3">
-
+				<div class="col-md-4 col-sm-4">
 					<div>
-
-						<i class="fa fa-desktop fa-4x main-color"></i>
-
-
-						<h3>Clean Code </h3>
+						<i class="fa fa-youtube-play" style="font-size: 400%; color:#ff0000"></i>
+						<h3>Youtube</h3>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+							I ain't a clip show, but I'll su... make you laugh.
 						</p>
-
 					</div>
-
-				</div>
-				<div class="col-md-3 col-sm-3">
-
-					<div>
-
-						<i class="fa fa-folder fa-4x main-color"></i>
-
-
-						<h3>Read to Use </h3>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-						</p>
-
-					</div>
-
 				</div>
 			</div>
-			<div class="row ">
+			<div class="row">
 				<div class="col-md-6 col-sm-6">
 					<h3>Lorem ipsum dolor sit amet</h3>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 					</p>
 				</div>
 				<div class="col-md-6 col-sm-6">
 					<div class="panel panel-default">
-
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
-								<li class="active"><a href="#home-pills" data-toggle="tab">Home</a>
+								<li class="active"><a href="#home-pills" data-toggle="tab">This</a>
 								</li>
-								<li class=""><a href="#profile-pills" data-toggle="tab">Profile</a>
+								<li class=""><a href="#profile-pills" data-toggle="tab">Does</a>
 								</li>
-								<li class=""><a href="#messages-pills" data-toggle="tab">Messages</a>
+								<li class=""><a href="#messages-pills" data-toggle="tab">Not</a>
 								</li>
-								<li class=""><a href="#settings-pills" data-toggle="tab">Settings</a>
+								<li class=""><a href="#settings-pills" data-toggle="tab">Work</a>
 								</li>
 							</ul>
 
@@ -227,7 +179,7 @@
 						 Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</strong>
 					</h4>
-				
+
 				</div>
 
 			</div>
@@ -248,7 +200,7 @@
 						 Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</strong>
 					</h4>
-				
+
 				</div>
 
 			</div>
@@ -328,7 +280,7 @@
 						 Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</strong>
 					</h4>
-				
+
 				</div>
 
 			</div>
