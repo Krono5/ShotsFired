@@ -92,7 +92,8 @@
             <div class="card card-block">
               <a href="#"><img alt="" class="team-img" src="img/Odega.jpg">
               <div class="card-title-wrap">
-                <span class="card-title">Odega</span> <span class="card-text">Master of Bots</span>
+                <span class="card-title">Odega</span>
+                <span class="card-text">Master of Bots</span>
               </div>
 
               <div class="team-over">
@@ -103,7 +104,7 @@
                 <nav class="social-nav">
                   <a href="#"><i class="fa fa-twitter"></i></a>
                   <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-twitch"></i></a>
+                  <a href="twitch.tv/odegacast"><i class="fa fa-twitch"></i></a>
                   <a href="#"><i class="fa fa-envelope"></i></a>
                 </nav>
 
@@ -118,7 +119,8 @@
             <div class="card card-block">
               <a href="#"><img alt="" class="team-img" src="img/R3vak.jpg">
               <div class="card-title-wrap">
-                <span class="card-title">R3VAK</span> <span class="card-text">Lord of Buckets</span>
+                <span class="card-title">R3VAK</span>
+                <span class="card-text">Lord of Buckets</span>
               </div>
 
               <div class="team-over">
@@ -144,7 +146,8 @@
             <div class="card card-block">
               <a href="#"><img alt="" class="team-img" src="img/Vitani.jpg">
               <div class="card-title-wrap">
-                <span class="card-title">Vitani</span> <span class="card-text">Queen of France</span>
+                <span class="card-title">Vitani</span>
+                <span class="card-text">Queen of France</span>
               </div>
 
               <div class="team-over">
