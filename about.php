@@ -74,11 +74,8 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitch"></i></a>
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-youtube-play"></i></a>
-                  <a href="#"><i class="fa fa-envelope"></i></a>
-                  <a href="#"><i class="fa fa-linkedin-square"></i></a>
+                  <a href="https://twitch.tv/kr0n05" target="_blank">
+                    <i class="fa fa-twitch"></i></a>
                 </nav>
 
                 <p>
@@ -102,11 +99,8 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="http://twitch.tv/odegacast" target="_blank">
+                  <a href="https://twitch.tv/odegacast" target="_blank">
                     <i class="fa fa-twitch"></i></a>
-                  <a href="#"><i class="fa fa-envelope"></i></a>
                 </nav>
 
                 <p>
@@ -130,10 +124,12 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-twitch"></i></a>
-                  <a href="#"><i class="fa fa-envelope"></i></a>
+                  <a href="https://twitter.com/KieranHardingSM" target="_blank">
+                    <i class="fa fa-twitter"></i></a>
+                  <a href="https://twitch.tv/r3vak" target="_blank">
+                    <i class="fa fa-twitch"></i></a>
+                  <a href="https://youtube.com/channel/UCK702GIJvYKHmnJWYPFAs_A" target="_blank">
+                    <i class="fa fa-youtube-play"></i></a>
                 </nav>
 
                 <p>
@@ -158,9 +154,8 @@
 
                 <nav class="social-nav">
                   <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-twitch"></i></a>
-                  <a href="#"><i class="fa fa-envelope"></i></a>
+                  <a href="https://twitch.tv/vitanimaru" target="_blank">
+                    <i class="fa fa-twitch"></i></a>
                 </nav>
 
                 <p>
