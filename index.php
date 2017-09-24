@@ -47,11 +47,11 @@
 		<div class="container">
 			<div class="row ">
 				<div class="col-md-8 col-sm-6">
-					<h1 class="head-main">Welcome to ShotsFired!</h1>
-					<h3 class="head-sub-main">The Stream Team</h3>
-					<p>
+					<h1>Welcome to ShotsFired!</h1>
+					<h3>The Stream Team</h3>
+					<p class="head-last">
 						Doing dumb shit since '13.
-					</p>
+					</div>
 
 				</div>
 				<div class="col-md-4 col-sm-6">
