@@ -96,9 +96,7 @@
 			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2">
 					<h2>What We Do</h2>
-
 				</div>
-
 			</div>
 
 
