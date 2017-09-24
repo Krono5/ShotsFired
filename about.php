@@ -59,35 +59,10 @@
           Meet our Founders
         </h2>
 
-        <div class="row" style="text-align:left">
+        <div class="row" style="text-align:center">
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/Kr0n05.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">KR0N05</span>
-                <span class="card-text">Build Master</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="https://twitch.tv/kr0n05" target="_blank">
-                    <i class="fa fa-twitch"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/Odega.jpg">
+              <a href="https://twitch.tv/odegacast"><img alt="" class="team-img" src="img/Odega.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">Odega</span>
                 <span class="card-text">Master of Bots</span>
@@ -112,7 +87,8 @@
 
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/R3vak.jpg">
+              <a href="https://twitch.tv/r3vak">
+                <img alt="" class="team-img" src="img/R3vak.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">R3VAK</span>
                 <span class="card-text">Lord of Buckets</span>
@@ -124,10 +100,10 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="https://twitter.com/KieranHardingSM" target="_blank">
-                    <i class="fa fa-twitter"></i></a>
                   <a href="https://twitch.tv/r3vak" target="_blank">
                     <i class="fa fa-twitch"></i></a>
+                  <a href="https://twitter.com/KieranHardingSM" target="_blank">
+                    <i class="fa fa-twitter"></i></a>
                   <a href="https://youtube.com/channel/UCK702GIJvYKHmnJWYPFAs_A" target="_blank">
                     <i class="fa fa-youtube-play"></i></a>
                 </nav>
@@ -141,7 +117,8 @@
 
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/Vitani.jpg">
+              <a href="https://twitch.tv/vitanimaru">
+                <img alt="" class="team-img" src="img/Vitani.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">Vitani</span>
                 <span class="card-text">Queen of France</span>
@@ -155,6 +132,32 @@
                 <nav class="social-nav">
                   <a href="#"><i class="fa fa-twitter"></i></a>
                   <a href="https://twitch.tv/vitanimaru" target="_blank">
+                    <i class="fa fa-twitch"></i></a>
+                </nav>
+
+                <p>
+                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                </p>
+              </div></a>
+            </div>
+          </div>
+
+          <div class="col-sm-3 col-xs-6">
+            <div class="card card-block">
+              <a href="https://twitch.tv/kr0n05">
+                <img alt="" class="team-img" src="img/Kr0n05.jpg">
+              <div class="card-title-wrap">
+                <span class="card-title">KR0N05</span>
+                <span class="card-text">Odega's Babysitter</span>
+              </div>
+
+              <div class="team-over">
+                <h4 class="hidden-md-down">
+                  Connect with me
+                </h4>
+
+                <nav class="social-nav">
+                  <a href="https://twitch.tv/kr0n05" target="_blank">
                     <i class="fa fa-twitch"></i></a>
                 </nav>
 
