@@ -58,8 +58,15 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="div-trans text-center">
 						<h3 align="left" style="padding-left:15px; padding-top:0px; padding-bottom:0px">Random Quote:</h3>
+						$quote=array("Gold hundred is twelve.",
+												 "I spent 36 dollars on money.",
+												 "The nucleus is the powerhouse of the cell...")
+						$author=array("Vitani",
+													"Vitani",
+													"Odega")
+						$q_idx=rand(0,2)
 						<p style="padding-bottom:0px;">
-							<i> "Gold hundred is twelve."</i>
+							<i>" . $quote[$q_idx]</i>
 						</p>
 						<p align="right" style="padding-right:20px; padding-bottom:0px">
 							~ Vitani
