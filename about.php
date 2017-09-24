@@ -58,113 +58,114 @@
         <h2 class="text-center">
           Meet our Founders
         </h2>
+        <tr align="center">
+          <div class="row">
+            <div class="col-sm-3 col-xs-6">
+              <div class="card card-block">
+                <a href="#"><img alt="" class="team-img" src="img/Kr0n05.jpg">
+                <div class="card-title-wrap">
+                  <span class="card-title">KR0N05</span> <span class="card-text">Odega's Babysitter</span>
+                </div>
 
-        <div class="row">
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/Kr0n05.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">KR0N05</span> <span class="card-text">Odega's Babysitter</span>
+                <div class="team-over">
+                  <h4 class="hidden-md-down">
+                    Connect with me
+                  </h4>
+
+                  <nav class="social-nav">
+                    <a href="#"><i class="fa fa-twitch"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-youtube-play"></i></a>
+                    <a href="#"><i class="fa fa-envelope"></i></a>
+                    <a href="#"><i class="fa fa-linkedin-square"></i></a>
+                  </nav>
+
+                  <p>
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div></a>
               </div>
+            </div>
 
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
+            <div class="col-sm-3 col-xs-6">
+              <div class="card card-block">
+                <a href="#"><img alt="" class="team-img" src="img/Odega.jpg">
+                <div class="card-title-wrap">
+                  <span class="card-title">Odega</span> <span class="card-text">Master of Bots</span>
+                </div>
 
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitch"></i></a>
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-youtube-play"></i></a>
-                  <a href="#"><i class="fa fa-envelope"></i></a>
-                  <a href="#"><i class="fa fa-linkedin-square"></i></a>
-                </nav>
+                <div class="team-over">
+                  <h4 class="hidden-md-down">
+                    Connect with me
+                  </h4>
 
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
+                  <nav class="social-nav">
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitch"></i></a>
+                    <a href="#"><i class="fa fa-envelope"></i></a>
+                  </nav>
+
+                  <p>
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div></a>
+              </div>
+            </div>
+
+            <div class="col-sm-3 col-xs-6">
+              <div class="card card-block">
+                <a href="#"><img alt="" class="team-img" src="img/R3vak.jpg">
+                <div class="card-title-wrap">
+                  <span class="card-title">R3VAK</span> <span class="card-text">Lord of Buckets</span>
+                </div>
+
+                <div class="team-over">
+                  <h4 class="hidden-md-down">
+                    Connect with me
+                  </h4>
+
+                  <nav class="social-nav">
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitch"></i></a>
+                    <a href="#"><i class="fa fa-envelope"></i></a>
+                  </nav>
+
+                  <p>
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div></a>
+              </div>
+            </div>
+
+            <div class="col-sm-3 col-xs-6">
+              <div class="card card-block">
+                <a href="#"><img alt="" class="team-img" src="img/Vitani.jpg">
+                <div class="card-title-wrap">
+                  <span class="card-title">Vitani</span> <span class="card-text">Queen of France</span>
+                </div>
+
+                <div class="team-over">
+                  <h4 class="hidden-md-down">
+                    Connect with me
+                  </h4>
+
+                  <nav class="social-nav">
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitch"></i></a>
+                    <a href="#"><i class="fa fa-envelope"></i></a>
+                  </nav>
+
+                  <p>
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div></a>
+              </div>
             </div>
           </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/Odega.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">Odega</span> <span class="card-text">Master of Bots</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-twitch"></i></a>
-                  <a href="#"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/R3vak.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">R3VAK</span> <span class="card-text">Lord of Buckets</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-twitch"></i></a>
-                  <a href="#"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/Vitani.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">Vitani</span> <span class="card-text">Queen of France</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-twitch"></i></a>
-                  <a href="#"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
-            </div>
-          </div>
-        </div>
+        </tr>
       </div>
     </section>
     <!-- /Team -->
