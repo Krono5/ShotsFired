@@ -126,7 +126,7 @@
 						<i class="fa fa-youtube-play"></i>
 						<h3>Youtube</h3>
 						<p>
-							I ain't a clip show, but I'll s... make you laugh.
+							I ain't a clip show, but I'll su... make you laugh.
 						</p>
 					</div>
 				</div>
