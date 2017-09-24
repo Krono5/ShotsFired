@@ -32,13 +32,6 @@
 	<![endif]-->
 
 </head>
-
-<style>
-body {
-	background-color: blue;
-}
-</style>
-
 <body>
 	<!--Header section  -->
 	<div id="header">

@@ -43,13 +43,6 @@
       Author URL: https://bootstrapmade.com
     ======================================================= -->
   </head>
-
-  <style>
-  body {
-    background-color: inherit;
-  }
-  </style>
-
   <body>
     <!-- Page Content
     ================================================== -->
