@@ -72,7 +72,7 @@
 																		color: #fff">
 							<i>"<?php echo($quote[$q_idx]) ?>"</i>
 						</h3>
-						<p align="right" style="padding-right:20px; padding-bottom:0px; color: #fff">
+						<p align="right" style="padding-right:20px; padding-bottom:150px; color: #fff">
 							~ <?php echo($author[$q_idx]) ?>
 						</p>
 
