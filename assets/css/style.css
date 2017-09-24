@@ -204,7 +204,7 @@ background-repeat: no-repeat;
 background-position: center 0;
 background-size: cover;
 background-attachment: fixed;
-min-height:650px;
+min-height:300px;
 }
 .div-trans {
     padding:5px;
