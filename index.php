@@ -86,7 +86,7 @@
 			<div class="row text-center space-pad">
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-bullhorn" style="font-size: 400%"; color:"#c97200"></i>
+						<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
 						<h3>Blogging</h3>
 						<p>
 							Gaming, Tech, and More! Join the discussion above.
@@ -95,7 +95,7 @@
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-twitch" style="font-size: 400%"; color:"#6441a5"></i>
+						<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
 						<h3>Streaming</h3>
 						<p>
 							Singleplayer, Co-op, and multiplayer! OH MY! Links above.
@@ -104,7 +104,7 @@
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-youtube-play" style="font-size: 400%"; color:"#ff0000"></i>
+						<i class="fa fa-youtube-play" style="font-size: 400%; color:#ff0000"></i>
 						<h3>Youtube</h3>
 						<p>
 							I ain't a clip show, but I'll su... make you laugh.
