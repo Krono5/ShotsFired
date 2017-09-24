@@ -19,11 +19,11 @@
 	<!--REQUIRED STYLE SHEETS-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 	<!-- BOOTSTRAP CORE STYLE CSS -->
-	<link href="assets/css/bootstrap.css" rel="stylesheet"/>
+	<link rel="stylesheet" href="assets/css/bootstrap.css" />
 	<!-- FONTAWESOME STYLE CSS -->
-	<link href="assets/css/font-awesome.min.css" rel="stylesheet"/>
+	<link  rel="stylesheet" href="assets/css/font-awesome.min.css"/>
 	<!-- CUSTOM STYLE CSS -->
-	<link href="assets/css/style.css" rel="stylesheet"/>
+	<link rel="stylesheet" href="assets/css/style.css" />
 	<!-- GOOGLE FONT -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
