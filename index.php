@@ -111,7 +111,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-4">
+				<div class="col-md-4 col-sm-4" style="font-size: 400%">
 					<div>
 						<i class="fa fa-twitch"></i>
 						<h3>Streaming</h3>
@@ -120,7 +120,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-4">
+				<div class="col-md-4 col-sm-4" style="font-size: 400%">
 					<div>
 						<i class="fa fa-youtube-play"></i>
 						<h3>Youtube</h3>
