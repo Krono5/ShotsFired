@@ -58,10 +58,10 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="div-trans text-center">
 						<h3>Random Quote:</h3>
-						<p>
+						<p style="padding-bottom:0px">
 							<i> "Gold hundred is twelve."</i>
 						</p>
-						<p align="right">
+						<p align="right" style="padding-right:20px">
 							~ Vitani
 						</p>
 					</div>
