@@ -61,7 +61,7 @@
 						<p style="padding-bottom:0px">
 							<i> "Gold hundred is twelve."</i>
 						</p>
-						<p align="right" style="padding-right:10px">
+						<p align="right" style="padding-right:10px padding-top:1px">
 							~ Vitani
 						</p>
 					</div>
