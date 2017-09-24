@@ -174,8 +174,8 @@
           Meet our Streamers
         </h2>
 
-        <div class="row" style="text-align:left">
-          <div class="col-sm-3 col-xs-6 mx-auto">
+        <div class="row" style="float:none; margin:0 auto;">
+          <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
               <a href="#"><img alt="" class="team-img" src="img/BabyDucks.jpg">
               <div class="card-title-wrap">
