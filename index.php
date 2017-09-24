@@ -56,7 +56,6 @@
 
 				</div>
 				<div class="col-md-4 col-sm-6">
-					<div class="div-trans text-center">
 						<?php
 							$quote=array("Gold hundred is twelve.",
 													 "I spent 36 dollars on money.",
@@ -72,7 +71,6 @@
 						<p align="right" style="padding-right:20px; padding-bottom:0px">
 							~ <?php echo($author[$q_idx]) ?>
 						</p>
-					</div>
 
 				</div>
 
