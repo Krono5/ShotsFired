@@ -134,7 +134,7 @@
 
                 <p>
                   Came here to report on eSports and play some horror games.
-                  She's all out of horror games.
+                  And she's all out of eSports.
                 </p>
               </div>
             </div>
