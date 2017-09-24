@@ -50,8 +50,7 @@
 					<h1 class="head-main">ShotsFired</h1>
 					<span class="head-sub-main">The Stream Team</span>
 					<div class="head-last">
-
-						Doing dumb shit since '13.
+						Welcome to our website, the hub for all things ShotsFired! <br>
 					</div>
 
 				</div>
