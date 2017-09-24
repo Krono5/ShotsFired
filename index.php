@@ -46,9 +46,9 @@
 
 		<div class="container">
 			<div class="row ">
-				<div class="col-md-7 col-sm-7">
-					<h1 class="head-main">Welcome to <br> ShotsFired!</h1>
-					<span class="head-sub-main">The Stream Team</span>
+				<div class="col-md-8 col-sm-6">
+					<h1 class="head-main">Welcome to ShotsFired!</h1>
+					<h3 class="head-sub-main">The Stream Team</h3>
 					<div class="head-last">
 						Doing dumb shit since '13.
 					</div>
