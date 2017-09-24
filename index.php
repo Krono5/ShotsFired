@@ -38,6 +38,8 @@
 		<?php include("header.html");?>
 	</div>
 
+	<a name="top_home">
+
 	<div id="home">
 
 
