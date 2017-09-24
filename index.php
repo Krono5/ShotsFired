@@ -140,10 +140,9 @@
 				</div>
 				<div class="col-md-6 col-sm-6">
 					<div class="panel panel-default">
-
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
-								<li class="active"><a href="#home-pills" data-toggle="tab">You</a>
+								<li class=""><a href="#home-pills" data-toggle="tab">You</a>
 								</li>
 								<li class=""><a href="#profile-pills" data-toggle="tab">Dumb</a>
 								</li>
