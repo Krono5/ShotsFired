@@ -127,9 +127,12 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
                   <a href="https://twitch.tv/vitanimaru" target="_blank">
                     <i class="fa fa-twitch"></i></a>
+                  <a href="https://twitter.com/vitanimaru" target="_blank">
+                    <i class="fa fa-twitter"></i></a>
+                  <a href="https://instagram.com/vitanimaru/" target="_blank">
+                    <i class="fa fa-instagram"></i></a>
                 </nav>
 
                 <p>
