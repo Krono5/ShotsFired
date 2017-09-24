@@ -73,7 +73,11 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitch"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-youtube-play"></i></a>  <a href="#"><i class="fa fa-envelope"></i></a> <a href="#"><i class="fa fa-linkedin-square"></i></a>
+                  <a href="#"><i class="fa fa-twitch"></i></a>
+                  <a href="#"><i class="fa fa-twitter"></i></a>
+                  <a href="#"><i class="fa fa-youtube-play"></i></a>
+                  <a href="#"><i class="fa fa-envelope"></i></a>
+                  <a href="#"><i class="fa fa-linkedin-square"></i></a>
                 </nav>
 
                 <p>
@@ -96,7 +100,10 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitch"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
+                  <a href="#"><i class="fa fa-twitter"></i></a>
+                  <a href="#"><i class="fa fa-facebook"></i></a>
+                  <a href="#"><i class="fa fa-twitch"></i></a>
+                  <a href="#"><i class="fa fa-envelope"></i></a>
                 </nav>
 
                 <p>
@@ -119,7 +126,10 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitch"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
+                  <a href="#"><i class="fa fa-twitter"></i></a>
+                  <a href="#"><i class="fa fa-facebook"></i></a>
+                  <a href="#"><i class="fa fa-twitch"></i></a>
+                  <a href="#"><i class="fa fa-envelope"></i></a>
                 </nav>
 
                 <p>
@@ -142,7 +152,10 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitch"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
+                  <a href="#"><i class="fa fa-twitter"></i></a>
+                  <a href="#"><i class="fa fa-facebook"></i></a>
+                  <a href="#"><i class="fa fa-twitch"></i></a>
+                  <a href="#"><i class="fa fa-envelope"></i></a>
                 </nav>
 
                 <p>
@@ -162,28 +175,34 @@
         </h2>
 
         <div class="row">
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/BabyDucks.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">YoloSwagBabyDucks</span> <span class="card-text">Quack Quack</span>
+          <tr align="center">
+            <div class="col-sm-3 col-xs-6">
+              <div class="card card-block">
+                <a href="#"><img alt="" class="team-img" src="img/BabyDucks.jpg">
+                <div class="card-title-wrap">
+                  <span class="card-title">YoloSwagBabyDucks</span>
+                  <span class="card-text">Quack Quack</span>
+                </div>
+
+                <div class="team-over">
+                  <h4 class="hidden-md-down">
+                    Connect with me
+                  </h4>
+
+                  <nav class="social-nav">
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                    <a href="#"><i class="fa fa-envelope"></i></a>
+                  </nav>
+
+                  <p>
+                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  </p>
+                </div></a>
               </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
             </div>
-          </div>
+          </tr>
         </div>
       </div>
     </section>
