@@ -50,7 +50,7 @@
 		  params[decodeURIComponent(a[0])] = decodeURIComponent(a[1]) || "";
 		});
 
-		var channels = params["channels"] ? params["channels"].split(",") : ["riotgames", "dota2ti", "machinima", "lirik", "day9tv", "manvsgame", "wyld"];
+		var channels = params["channels"] ? params["channels"].split(",") : ["twitch", "dota2ti", "machinima", "lirik", "day9tv", "manvsgame", "wyld"];
 
 		for(var i=0; i < channels.length; i++) {
 		  var channel = channels[i];
