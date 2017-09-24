@@ -61,7 +61,7 @@
 							<i> "Gold hundred is twelve."</i>
 						</p>
 						<p align="right">
-							<i>~ Vitani</i>
+							~ Vitani
 						</p>
 					</div>
 
