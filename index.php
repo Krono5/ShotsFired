@@ -71,7 +71,7 @@
 							<i>"<?php echo($quote[$q_idx]) ?>"</i>
 						</p>
 						<p align="right" style="padding-right:20px; padding-bottom:0px">
-							~ Vitani
+							~ <?php echo($author[$q_idx]) ?>
 						</p>
 					</div>
 
