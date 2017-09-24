@@ -147,11 +147,11 @@
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
 								<li class="active"><a href="#home-pills" data-toggle="tab">You</a>
 								</li>
-								<li class="active"><a href="#profile-pills" data-toggle="tab">Dumb</a>
+								<li class=""><a href="#profile-pills" data-toggle="tab">Dumb</a>
 								</li>
-								<li class="active"><a href="#messages-pills" data-toggle="tab">Slut</a>
+								<li class=""><a href="#messages-pills" data-toggle="tab">Slut</a>
 								</li>
-								<li class="active"><a href="#settings-pills" data-toggle="tab">Tyler</a>
+								<li class=""><a href="#settings-pills" data-toggle="tab">Tyler</a>
 								</li>
 							</ul>
 
