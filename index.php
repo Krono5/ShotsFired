@@ -101,55 +101,35 @@
 
 			</div>
 
-			<div class="col-md-4 col-sm-4">
-
-				<div>
-
-					<i class="fa fa-bullhorn"></i>
-
-
-					<h3>Blogging</h3>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-					</p>
-
-				</div>
-
-			</div>
 
 			<div class="row text-center space-pad">
 				<div class="col-md-4 col-sm-4">
-
 					<div>
-
+						<i class="fa fa-bullhorn"></i>
+						<h3>Blogging</h3>
+						<p>
+							Gaming, Tech, and More! Join the discussion above.
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<div>
 						<i class="fa fa-twitch"></i>
-
-
 						<h3>Streaming</h3>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+							Singleplayer, Co-op, and multiplayer! OH MY! Links above.
 						</p>
-
 					</div>
-
 				</div>
-
 				<div class="col-md-4 col-sm-4">
-
 					<div>
-
 						<i class="fa fa-youtube-play"></i>
-
-
 						<h3>Youtube</h3>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+							I ain't a clip show, but I'll s... make you laugh.
 						</p>
-
 					</div>
-
 				</div>
-
 			</div>
 			<div class="row ">
 				<div class="col-md-6 col-sm-6">
