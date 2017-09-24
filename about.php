@@ -133,7 +133,8 @@
                 </nav>
 
                 <p>
-                  Came here to report on eSports and play some horror games, and she's all out of horror games"
+                  Came here to report on eSports and play some horror games.
+                  She's all out of horror games.
                 </p>
               </div>
             </div>
