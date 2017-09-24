@@ -33,6 +33,12 @@
 
 </head>
 
+<style>
+body {
+	background-color: #e5e5e5;
+}
+</style>
+
 <body>
 	<!--Header section  -->
 	<div id="header">
@@ -227,7 +233,7 @@
 						 Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</strong>
 					</h4>
-				
+
 				</div>
 
 			</div>
@@ -248,7 +254,7 @@
 						 Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</strong>
 					</h4>
-				
+
 				</div>
 
 			</div>
@@ -328,7 +334,7 @@
 						 Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</strong>
 					</h4>
-				
+
 				</div>
 
 			</div>
