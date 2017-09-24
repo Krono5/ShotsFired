@@ -47,7 +47,7 @@
 
 		<div class="container">
 			<div class="row ">
-				<div class="col-md-8 col-sm-6">
+				<div class="col-md-9 col-sm-6">
 					<h1 class="head-main">Shots Fired</h1>
 					<span class="head-sub-main">Stream Team</span>
 					<div class="head-last">
@@ -55,7 +55,7 @@
 					</div>
 
 				</div>
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-3 col-sm-6">
 					<div class="div-trans text-center">
 						<h3>Random Quote:</h3>
 						<p style="padding-bottom:0px">
