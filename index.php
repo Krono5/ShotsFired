@@ -136,10 +136,10 @@
 
 					<div>
 
-						<i class="fa fa-desktop fa-4x main-color"></i>
+						<i class="fa fa-bullhorn"></i>
 
 
-						<h3>Clean Code </h3>
+						<h3>Blogging</h3>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
 						</p>
