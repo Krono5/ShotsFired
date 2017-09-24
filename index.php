@@ -68,7 +68,7 @@
 							$q_idx=rand(0,2);
 						?>
 						<p style="padding-bottom:0px;">
-							<i>""<?phpecho $quote[$q_idx]?>"</i>
+							<i>"<?php echo($quote[$q_idx]) ?>"</i>
 						</p>
 						<p align="right" style="padding-right:20px; padding-bottom:0px">
 							~ Vitani
