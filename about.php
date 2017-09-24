@@ -58,8 +58,8 @@
         <h2 class="text-center">
           Meet our Founders
         </h2>
-        <tr align="center">
-          <div class="row">
+        <div class="row">
+          <tr align="center">
             <div class="col-sm-3 col-xs-6">
               <div class="card card-block">
                 <a href="#"><img alt="" class="team-img" src="img/Kr0n05.jpg">
@@ -164,8 +164,8 @@
                 </div></a>
               </div>
             </div>
-          </div>
-        </tr>
+          </tr>
+        </div>
       </div>
     </section>
     <!-- /Team -->
@@ -176,8 +176,8 @@
         </h2>
 
         <div class="row">
-          <tr align="center">
-            <div class="col-sm-3 col-xs-6">
+          <div class="col-sm-3 col-xs-6">
+            <tr align="center">
               <div class="card card-block">
                 <a href="#"><img alt="" class="team-img" src="img/BabyDucks.jpg">
                 <div class="card-title-wrap">
@@ -202,8 +202,8 @@
                   </p>
                 </div></a>
               </div>
-            </div>
-          </tr>
+            </tr>
+          </div>
         </div>
       </div>
     </section>
