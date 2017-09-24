@@ -144,8 +144,7 @@
 
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
-              <a>
-                <img alt="" class="team-img" src="img/Kr0n05.jpg">
+              <img alt="" class="team-img" src="img/Kr0n05.jpg">
               <div class="card-title-wrap">
                 <span class="card-title">KR0N05</span>
                 <span class="card-text">Odega's Babysitter</span>
@@ -164,7 +163,7 @@
                 <p>
                   Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
                 </p>
-              </div></a>
+              </div>
             </div>
           </div>
         </div>
