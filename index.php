@@ -104,7 +104,7 @@
 			<div class="row text-center space-pad">
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-bullhorn"></i>
+						<i class="fa fa-bullhorn" style="font-size: large"></i>
 						<h3>Blogging</h3>
 						<p>
 							Gaming, Tech, and More! Join the discussion above.

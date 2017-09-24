@@ -23,11 +23,6 @@
     <title>ShotsFired Stream Team</title>
 
 
-  	<link href="assets/css/bootstrap.css" rel="stylesheet"/>
-  	<!-- FONTAWESOME STYLE CSS -->
-  	<link href="assets/css/font-awesome.min.css" rel="stylesheet"/>
-  	<!-- CUSTOM STYLE CSS -->
-  	<link href="assets/css/style.css" rel="stylesheet"/>
   <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
 
     <!-- Google Fonts -->
