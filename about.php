@@ -48,7 +48,6 @@
   body {
     background-color: inherit;
   }
-
   </style>
 
   <body>
