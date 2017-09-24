@@ -54,7 +54,7 @@
 					</div>
 
 				</div>
-				<div class="col-md-5 col-sm-5">
+				<div class="col-md-4 col-sm-6">
 					<div class="div-trans text-center">
 						<h3>Random Quote:</h3>
 						<form>
