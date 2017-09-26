@@ -180,9 +180,10 @@ vertical-align: middle;
 ==================================================*/
 
 .head-main {
-   font-size: 70px !important;
-font-weight: 900!important;
- color:#fff;
+  padding-top:200px;
+  font-size: 70px !important;
+  font-weight: 900!important;
+  color:#fff;
 }
 @media screen and (max-width: 768px){
   .head-main{
