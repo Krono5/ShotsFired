@@ -56,15 +56,21 @@
 
 				</div>
 				<div class="col-md-4 col-sm-6">
-					<div class="div-trans text-center">
-						<h3 align="left" style="padding-left:15px; padding-top:0px; padding-bottom:0px">Random Quote:</h3>
-						<p style="padding-bottom:0px;">
-							<i> "Gold hundred is twelve."</i>
+						<?php
+							$quote=array("Gold hundred is twelve.",
+													 "I spent 36 dollars on money.",
+													 "The nucleus is the powerhouse of the cell...");
+							$author=array("Vitani",
+														"Vitani",
+														"Odega");
+							$q_idx=rand(0,2);
+						?>
+						<h3 align="left" class="rand-quote">
+							<i>"<?php echo($quote[$q_idx]) ?>"</i>
+						</h3>
+						<p align="right" style="padding-right:20px; padding-bottom:40px; color: #fff">
+							~ <?php echo($author[$q_idx]) ?>
 						</p>
-						<p align="right" style="padding-right:20px; padding-bottom:0px">
-							~ Vitani
-						</p>
-					</div>
 
 				</div>
 
@@ -89,7 +95,7 @@
 						<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
 						<h3>Blogging</h3>
 						<p>
-							Gaming, Tech, and More! Join the discussion above.
+							Gaming, Tech, and More! Join the discussion.
 						</p>
 					</div>
 				</div>
@@ -98,7 +104,7 @@
 						<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
 						<h3>Streaming</h3>
 						<p>
-							Singleplayer, Co-op, and multiplayer! OH MY! Links above.
+							Singleplayer, Co-op, and multiplayer! OH MY!
 						</p>
 					</div>
 				</div>
@@ -123,36 +129,30 @@
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 					</p>
 				</div>
-				<div class="col-md-6 col-sm-6">
+				<div class="col-md-6 col-sm-6 streamer-box">
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
-								<li class="active"><a href="#home-pills" data-toggle="tab">This</a>
+								<li class="active"><a href="#online-stream" data-toggle="tab">Online</a>
 								</li>
-								<li class=""><a href="#profile-pills" data-toggle="tab">Does</a>
+								<li class=""><a href="#offine-stream" data-toggle="tab">Offline</a>
 								</li>
-								<li class=""><a href="#messages-pills" data-toggle="tab">Not</a>
-								</li>
-								<li class=""><a href="#settings-pills" data-toggle="tab">Work</a>
+								<li class=""><a href="#all-stream" data-toggle="tab">All</a>
 								</li>
 							</ul>
 
 							<div class="tab-content">
-								<div class="tab-pane fade  active in" id="home-pills">
-									<h4>Home Tab</h4>
+								<div class="tab-pane fade  active in" id="online-stream">
+									<h4>Online Streamers</h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
 								</div>
-								<div class="tab-pane fade" id="profile-pills">
-									<h4>Profile Tab</h4>
+								<div class="tab-pane fade" id="offline-stream">
+									<h4>Offline Streamers</h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
 
 								</div>
-								<div class="tab-pane fade" id="messages-pills">
-									<h4>Messages Tab</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
-								</div>
-								<div class="tab-pane fade" id="settings-pills">
-									<h4>Settings Tab</h4>
+								<div class="tab-pane fade" id="all-stream">
+									<h4>All Streamers</h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
 								</div>
 							</div>
@@ -173,10 +173,10 @@
 
 			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2 ">
-					<h2><i class="fa fa-desktop fa-3x"></i>&nbsp;Just Space </h2>
+					<h2>Other Media</h2>
 					<h4>
-						<strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						 Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+						<strong>
+							Feel free to follow us on some of our other social media below!
 						</strong>
 					</h4>
 
@@ -194,77 +194,16 @@
 			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2">
 
-					<h2>Pricing Options</h2>
+					<h2>Instagram</h2>
 					<h4>
-						<strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						 Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+						<strong>
+							#filter tho. COMING SOON.
 						</strong>
 					</h4>
 
 				</div>
 
 			</div>
-			<div class="row text-center">
-
-				<div class="col-md-12 ">
-
-
-
-					<div class="col-md-3 col-sm-6">
-						<ul class="plan ">
-							<li class="plan-head">BASIC PLAN</li>
-							<li class="main-price">$99 only</li>
-							<li><strong>120 </strong>Users</li>
-							<li><strong>10 </strong>Emails</li>
-							<li><strong>12GB </strong>Spacce</li>
-							<li class="bottom">
-								<a href="#contact-sec" class="btn btn-warning">SIGNUP HERE</a>
-							</li>
-						</ul>
-					</div>
-
-					<div class="col-md-3 col-sm-6">
-						<ul class="plan plan-active">
-							<li class="plan-head head-active ">SIMPLE PLAN</li>
-							<li class="main-price">$199 only</li>
-							<li><strong>120 </strong>Users</li>
-							<li><strong>10 </strong>Emails</li>
-							<li><strong>12GB </strong>Spacce</li>
-							<li class="bottom">
-								<a href="#contact-sec" class="btn btn-primary">SIGNUP HERE</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-3 col-sm-6">
-						<ul class="plan">
-							<li class="plan-head">VALUE PLAN</li>
-							<li class="main-price">$299 only</li>
-							<li><strong>120 </strong>Users</li>
-							<li><strong>10 </strong>Emails</li>
-							<li><strong>12GB </strong>Spacce</li>
-							<li class="bottom">
-								<a href="#contact-sec" class="btn btn-danger">SIGNUP HERE</a>
-							</li>
-						</ul>
-					</div>
-
-					<div class="col-md-3 col-sm-6">
-						<ul class="plan">
-							<li class="plan-head">ADVANCE PLAN</li>
-							<li class="main-price">$399 only</li>
-							<li><strong>120 </strong>Users</li>
-							<li><strong>10 </strong>Emails</li>
-							<li><strong>12GB </strong>Spacce</li>
-							<li class="bottom">
-								<a href="#contact-sec" class="btn btn-success">SIGNUP HERE</a>
-							</li>
-						</ul>
-					</div>
-
-				</div>
-			</div>
-
-
 		</div>
 	</section>
 	<!--End Pricing Section -->
@@ -274,44 +213,20 @@
 
 			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2 ">
-					<h2><i class="fa fa-briefcase fa-3x"></i>&nbsp;Just Space </h2>
+					<h2>
+						Made it!
+					</h2>
 					<h4>
-						<strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						 Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+						<strong>
+							The bottom of the webpage! What a journey!
 						</strong>
 					</h4>
-
 				</div>
-
 			</div>
 
 
 		</div>
 	</section>
-	<!--./parallax two-->
-
-
-	<!-- Contact Section -->
-	<section id="contact-sec">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-
-					<div id="social-icon">
-						<a href="#"><i class="fa fa-facebook fa-2x"></i></a>
-						<a href="#"><i class="fa fa-twitter fa-2x"></i></a>
-						<a href="#"><i class="fa fa-linkedin fa-2x"></i></a>
-						<a href="#"><i class="fa fa-google-plus fa-2x"></i></a>
-						<a href="#"><i class="fa fa-pinterest fa-2x"></i></a>
-					</div>
-				</div>
-
-
-			</div>
-		</div>
-	</section>
-
-	<!--End Contact Section -->
 	<!--footer Section -->
 	<div id="footer">
 		<?php include("footer.html");?>
