@@ -44,7 +44,7 @@ content: "";
 height: 2px;
 width: 150px;
 background: #27C00A;
-margin: 10px auto 20px;
+margin: 10px auto 40px;
 
     }
 
@@ -64,7 +64,7 @@ p {
 
 .space-pad {
     padding-bottom:50px;
-    padding-top:10px;
+    padding-top:20px;
 }
 
 
