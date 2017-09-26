@@ -130,7 +130,7 @@
 					</p>
 				</div>
 				<div class="col-md-6 col-sm-6" >
-					<div class="panel panel-default" style="padding-top:40">
+					<div class="panel panel-default" style="padding-top:40px">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
 								<li class="active"><a href="#online-stream" data-toggle="tab">Online</a>
