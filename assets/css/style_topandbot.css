@@ -110,10 +110,11 @@ border-color: var(--blue);
 }
 
 .navbar-brand{
-overflow: hidden;
-width: 100px;
-height: 48px;
-position: relative
+  padding-top: -15
+  overflow: hidden;
+  width: 100px;
+  height: 48px;
+  position: relative
 }
 
 /*=======================================
