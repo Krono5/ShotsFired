@@ -199,7 +199,7 @@ font-weight: 900!important;
 }
 @media screen and (max-width: 768px){
   .head-last {
-    padding-bottom: 20px;
+    padding-top: 20px;
   }
 }
 #home {
