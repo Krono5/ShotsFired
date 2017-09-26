@@ -133,13 +133,11 @@
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
-								<li class="active"><a href="#home-pills" data-toggle="tab">This</a>
+								<li class="active"><a href="#online-stream" data-toggle="tab">Online</a>
 								</li>
-								<li class=""><a href="#profile-pills" data-toggle="tab">Does</a>
+								<li class=""><a href="#offine-stream" data-toggle="tab">Offline</a>
 								</li>
-								<li class=""><a href="#messages-pills" data-toggle="tab">Not</a>
-								</li>
-								<li class=""><a href="#settings-pills" data-toggle="tab">Work</a>
+								<li class=""><a href="#all-stream" data-toggle="tab">All</a>
 								</li>
 							</ul>
 
@@ -155,10 +153,6 @@
 								</div>
 								<div class="tab-pane fade" id="messages-pills">
 									<h4>Messages Tab</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
-								</div>
-								<div class="tab-pane fade" id="settings-pills">
-									<h4>Settings Tab</h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
 								</div>
 							</div>
