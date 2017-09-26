@@ -136,7 +136,6 @@ border-color: var(--blue);
 .dropdown {
     position: inherit;
     display: inline-block;
-    text-align: right;
 }
 
 /* Dropdown Content (Hidden by Default) */
