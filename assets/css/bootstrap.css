@@ -4760,11 +4760,6 @@ a.list-group-item-danger.active:focus {
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
           box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
 }
-@media screen and (max-width: 768px){
-  .panel {
-    padding-top:40px;
-  }
-}
 .panel-body {
   padding: 15px;
 }
