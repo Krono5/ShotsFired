@@ -123,7 +123,6 @@ border-color: var(--blue);
 /* Dropdown Button */
 .dropbtn {
     background-color: var(--blue);
-    padding-left: 15px;
     color: white;
     border: none;
     cursor: pointer;
@@ -162,7 +161,6 @@ border-color: var(--blue);
 .dropdown-content a:hover {
     background-color: var(--green);
     border-radius: 6px;
-    padding-left: 15px
 }
 
 /* Show the dropdown menu on hover */
@@ -173,8 +171,6 @@ border-color: var(--blue);
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
     background-color: var(--green);
-
-    padding-left: 15px;
 }
 
 
