@@ -199,7 +199,19 @@ font-weight: 900!important;
 }
 @media screen and (max-width: 768px){
   .head-last {
-    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+.rand-quote {
+  padding-left:15px;
+  padding-top:200px;
+  padding-bottom:0px;
+  font-size: 20;
+  color: #fff
+}
+@media screen and (max-width: 768px){
+  .rand-quote {
+    padding-top:20px;
   }
 }
 #home {
