@@ -129,7 +129,7 @@
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 					</p>
 				</div>
-				<div class="col-md-6 col-sm-6" style="padding-top:40px" >
+				<div class="col-md-6 col-sm-6 streamer-box">
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
