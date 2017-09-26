@@ -123,6 +123,7 @@ border-color: var(--blue);
 /* Dropdown Button */
 .dropbtn {
     background-color: var(--blue);
+    padding-left: 15px;
     color: white;
     border: none;
     cursor: pointer;
