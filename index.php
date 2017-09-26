@@ -68,7 +68,7 @@
 						<h3 align="left" class="rand-quote">
 							<i>"<?php echo($quote[$q_idx]) ?>"</i>
 						</h3>
-						<p align="right" style="padding-right:20px; padding-bottom:20px; color: #fff">
+						<p align="right" style="padding-right:20px; padding-bottom:40px; color: #fff">
 							~ <?php echo($author[$q_idx]) ?>
 						</p>
 
