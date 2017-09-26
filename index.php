@@ -50,7 +50,7 @@
 				<div class="col-md-8 col-sm-6">
 					<h1 class="head-main">Shots Fired</h1>
 					<span class="head-sub-main">Stream Team</span>
-					<div class="head-last" style="padding-bottom:30%">
+					<div class="head-last">
 						Welcome to our website, the hub for all things ShotsFired! <br>
 					</div>
 
@@ -72,7 +72,7 @@
 																		color: #fff">
 							<i>"<?php echo($quote[$q_idx]) ?>"</i>
 						</h3>
-						<p align="right" style="padding-right:20px; padding-bottom:150px; color: #fff">
+						<p align="right" style="padding-right:20px; padding-bottom:0px; color: #fff">
 							~ <?php echo($author[$q_idx]) ?>
 						</p>
 
