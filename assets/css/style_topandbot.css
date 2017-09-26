@@ -60,7 +60,6 @@ h4 {
 p {
     font-weight:300;
     line-height:30px;
-    padding-bottom:20px;
 }
 
 .space-pad {
@@ -208,7 +207,7 @@ font-weight: 900!important;
 .rand-quote {
   padding-left:15px;
   padding-top:200px;
-  padding-bottom:20px;
+  padding-bottom:0px;
   font-size: 20;
   color: #fff
 }
