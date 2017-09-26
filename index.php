@@ -95,7 +95,7 @@
 						<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
 						<h3>Blogging</h3>
 						<p>
-							Gaming, Tech, and More! Join the discussion above.
+							Gaming, Tech, and More! Join the discussion.
 						</p>
 					</div>
 				</div>
@@ -104,7 +104,7 @@
 						<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
 						<h3>Streaming</h3>
 						<p>
-							Singleplayer, Co-op, and multiplayer! OH MY! Links above.
+							Singleplayer, Co-op, and multiplayer! OH MY!
 						</p>
 					</div>
 				</div>
@@ -227,9 +227,7 @@
 							The bottom of the webpage! What a journey!
 						</strong>
 					</h4>
-
 				</div>
-
 			</div>
 
 
