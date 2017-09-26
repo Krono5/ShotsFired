@@ -85,10 +85,11 @@ section {
 ==================================================*/
 .navbar a {
     color:#ffffff !important;
+    height:50px
 }
 .navbar-header a {
     color:#ffffff !important;
-    height:50px
+
 }
 
 nav {
