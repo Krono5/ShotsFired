@@ -110,10 +110,10 @@ border-color: var(--blue);
 }
 
 .navbar-brand{
-  padding-top: 2px;
   overflow: hidden;
   width: 100px;
   height: 48px;
+  vertical-align: middle;
 }
 
 /*=======================================
