@@ -50,7 +50,7 @@
 				<div class="col-md-8 col-sm-6">
 					<h1 class="head-main">Shots Fired</h1>
 					<span class="head-sub-main">Stream Team</span>
-					<div class="head-last" style="padding-bottom:20px">
+					<div class="head-last" style="padding-bottom:30%">
 						Welcome to our website, the hub for all things ShotsFired! <br>
 					</div>
 
