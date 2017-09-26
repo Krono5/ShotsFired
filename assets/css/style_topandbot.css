@@ -137,6 +137,8 @@ border-color: var(--blue);
 .dropdown {
     position: inherit;
     display: inline-block;
+
+    padding-left: 15px;
 }
 
 /* Dropdown Content (Hidden by Default) */
