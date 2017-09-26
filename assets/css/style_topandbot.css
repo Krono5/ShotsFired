@@ -85,7 +85,7 @@ section {
 ==================================================*/
 .navbar a {
     color:#ffffff !important;
-    height:50px
+    height:px
 }
 .navbar-header a {
     color:#ffffff !important;
@@ -114,7 +114,7 @@ border-color: var(--blue);
 overflow: visible;
 padding-top: 2px;
 padding-bottom: 2px;
-height: inherit;
+height: 48px;
 vertical-align: middle;
 }
 
