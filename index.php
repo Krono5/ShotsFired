@@ -224,7 +224,7 @@
 					</h2>
 					<h4>
 						<strong>
-							The bottom of the webpage! What a jouney!
+							The bottom of the webpage! What a journey!
 						</strong>
 					</h4>
 
