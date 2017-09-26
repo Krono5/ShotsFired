@@ -33,13 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    margin-top:200px;
     text-transform:uppercase;
-}
-@media screen and (max-width: 768px){
-  .h1{
-    padding-top:50px;
-  }
 }
 h2 {
     color:#27C00A;
@@ -191,7 +185,11 @@ vertical-align: middle;
 font-weight: 900!important;
  color:#fff;
 }
-
+@media screen and (max-width: 768px){
+  .head-main{
+    padding-top:50px;
+  }
+}
 .head-sub-main {
     font-size:40px !important;
     font-weight:600!important;
