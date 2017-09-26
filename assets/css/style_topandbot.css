@@ -194,9 +194,13 @@ font-weight: 900!important;
     color: #27C00A;
 }
 .head-last {
-
     padding:5px 20px 150px 20px;
     color:#fff;
+}
+@media screen and (max-width: 768px){
+  .head-last {
+    padding-bottom: 20px;
+  }
 }
 #home {
     background-image: url("../img/head.jpg");
