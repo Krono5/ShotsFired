@@ -129,7 +129,7 @@
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 					</p>
 				</div>
-				<div class="col-md-6 col-sm-6">
+				<div class="col-md-6 col-sm-6" style="padding-top:40">
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
