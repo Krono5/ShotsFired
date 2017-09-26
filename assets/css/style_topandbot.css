@@ -113,7 +113,7 @@ border-color: var(--blue);
 overflow: visible;
 padding-top: 2px;
 padding-bottom: 0;
-max-height: 20px;
+max-height: inherit;
 vertical-align: middle;
 }
 
