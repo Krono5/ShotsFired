@@ -142,17 +142,17 @@
 							</ul>
 
 							<div class="tab-content">
-								<div class="tab-pane fade  active in" id="home-pills">
-									<h4>Home Tab</h4>
+								<div class="tab-pane fade  active in" id="online-stream">
+									<h4>Online Streamers</h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
 								</div>
-								<div class="tab-pane fade" id="profile-pills">
-									<h4>Profile Tab</h4>
+								<div class="tab-pane fade" id="offline-stream">
+									<h4>Offline Streamers</h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
 
 								</div>
-								<div class="tab-pane fade" id="messages-pills">
-									<h4>Messages Tab</h4>
+								<div class="tab-pane fade" id="all-stream">
+									<h4>All Streamers</h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
 								</div>
 							</div>
