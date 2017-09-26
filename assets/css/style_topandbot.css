@@ -265,7 +265,7 @@ color:#fff;
     STREAMERS STYLES
 ==================================================*/
 .streamer-box {
-
+    padding-top:20px;
 }
 @media screen and (max-width: 768px){
   .streamer-box {
