@@ -130,11 +130,7 @@
 						Featured Blog Post
 					</h3>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						COMING SOON
 					</p>
 				</div>
 				<div class="col-md-6 col-sm-6 streamer-box">
@@ -152,16 +148,16 @@
 							<div class="tab-content">
 								<div class="tab-pane fade  active in" id="online-stream">
 									<h4>Online Streamers</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
+									<p>Online Streamers will be here!</p>
 								</div>
 								<div class="tab-pane fade" id="offline-stream">
 									<h4>Offline Streamers</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
+									<p>Offline Streamers will be here!</p>
 
 								</div>
 								<div class="tab-pane fade" id="all-stream">
 									<h4>All Streamers</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
+									<p>All Streamers will be here!</p>
 								</div>
 							</div>
 						</div>
