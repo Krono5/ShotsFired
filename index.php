@@ -59,11 +59,19 @@
 						<?php
 							$quote=array("Gold hundred is twelve.",
 													 "I spent 36 dollars on money.",
-													 "The nucleus is the powerhouse of the cell...");
+													 "The nucleus is the powerhouse of the cell...",
+												 	 "Cats are more rubber than babies.",
+												 	 "Can I make coffee juice?",
+												   "Cacao my life!",
+												 	 "Close your door. I'll s**t on your floor.");
 							$author=array("Vitani",
 														"Vitani",
-														"Odega");
-							$q_idx=rand(0,2);
+														"Odega",
+														"KR0N05",
+													  "KR0N05",
+														"BabyDucks",
+													  "R3VAK");
+							$q_idx=rand(0,6);
 						?>
 						<h3 align="left" class="rand-quote">
 							<i>"<?php echo($quote[$q_idx]) ?>"</i>
@@ -120,13 +128,11 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
-					<h3>Lorem ipsum dolor sit amet</h3>
+					<h3>
+						Featured Blog Post
+					</h3>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						COMING SOON
 					</p>
 				</div>
 				<div class="col-md-6 col-sm-6 streamer-box">
@@ -144,16 +150,16 @@
 							<div class="tab-content">
 								<div class="tab-pane fade  active in" id="online-stream">
 									<h4>Online Streamers</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
+									<p>Online Streamers will be here!</p>
 								</div>
 								<div class="tab-pane fade" id="offline-stream">
 									<h4>Offline Streamers</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
+									<p>Offline Streamers will be here!</p>
 
 								</div>
 								<div class="tab-pane fade" id="all-stream">
 									<h4>All Streamers</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, officia deserunt mollit anim id est laborum.</p>
+									<p>All Streamers will be here!</p>
 								</div>
 							</div>
 						</div>
