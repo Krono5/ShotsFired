@@ -71,7 +71,7 @@
 													  "KR0N05",
 														"BabyDucks",
 													  "R3VAK");
-							$q_idx=rand(0,5);
+							$q_idx=rand(0,6);
 						?>
 						<h3 align="left" class="rand-quote">
 							<i>"<?php echo($quote[$q_idx]) ?>"</i>
