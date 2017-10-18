@@ -62,13 +62,15 @@
 													 "The nucleus is the powerhouse of the cell...",
 												 	 "Cats are more rubber than babies.",
 												 	 "Can I make coffee juice?",
-												   "Cacao my life!");
+												   "Cacao my life!",
+												 	 "Close your door. I'll s**t on your floor.");
 							$author=array("Vitani",
 														"Vitani",
 														"Odega",
 														"KR0N05",
 													  "KR0N05",
-														"BabyDucks");
+														"BabyDucks",
+													  "R3VAK");
 							$q_idx=rand(0,5);
 						?>
 						<h3 align="left" class="rand-quote">
