@@ -32,13 +32,6 @@
 	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 	<![endif]-->
-
-	<style type="text/css">
-	<!--
-	a { text-decoration : none; color : #000; }
-	-->
-	</style>
-
 </head>
 <body>
 	<!--Header section  -->
@@ -106,7 +99,7 @@
 			<div class="row text-center space-pad">
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<a href="/blog">
+						<a href="/blog" style="text-decoration: none" >
 							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
 							<h3>Blogging</h3>
 							<p>
