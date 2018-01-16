@@ -13,7 +13,7 @@
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<![endif]-->
-	<title>ShotsFired Stream Team</title>
+	<title>Shots Fired Stream Team</title>
   <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
 	<!--REQUIRED STYLE SHEETS-->
 	<!-- BOOTSTRAP CORE STYLE CSS -->
