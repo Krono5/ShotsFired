@@ -99,7 +99,7 @@
 			<div class="row text-center space-pad">
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<a href="/blog" style="text-decoration: none" >
+						<a href="/blog">
 							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
 							<h3>Blogging</h3>
 							<p>
