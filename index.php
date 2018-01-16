@@ -112,7 +112,7 @@
 							<p>
 								Gaming, Tech, and More! Join the discussion.
 							</p>
-						</a>
+						</a><br>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
