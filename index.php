@@ -33,6 +33,12 @@
 	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 	<![endif]-->
 
+	<style type="text/css">
+	<!--
+	a { text-decoration : none; color : #000; }
+	-->
+	</style>
+
 </head>
 <body>
 	<!--Header section  -->
