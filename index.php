@@ -14,7 +14,7 @@
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<![endif]-->
-	<title>Shots Fired Stream Team</title>
+	<title>ShotsFired Stream Team</title>
 	<link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
 	<!--REQUIRED STYLE SHEETS-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -36,16 +36,11 @@
 	<div id="header">
 		<?php include("header.html");?>
 	</div>
-
-	<a name="top_home"></a>
-
 	<div id="home">
-
-
 		<div class="container">
 			<div class="row ">
 				<div class="col-md-8 col-sm-6">
-					<h1 class="head-main">Shots Fired</h1>
+					<h1 class="head-main">ShotsFired</h1>
 					<span class="head-sub-main">Stream Team</span>
 					<div class="head-last">
 						Welcome to our website, the hub for all things ShotsFired! <br>
