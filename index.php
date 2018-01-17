@@ -120,12 +120,8 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
-					<h3>
-						Featured Blog Post
-					</h3>
-					<p>
-						COMING SOON
-					</p>
+					<h3>Instagram</h3>
+					<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/19e7c6ee9bb451c49b4c412b8d3c5e77.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 				</div>
 				<div class="col-md-6 col-sm-6 streamer-box">
 					<div class="panel panel-default">
@@ -192,8 +188,7 @@
 			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2">
 
-					<h2>Instagram</h2>
-					<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/19e7c6ee9bb451c49b4c412b8d3c5e77.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+					
 
 
 				</div>
