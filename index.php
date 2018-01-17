@@ -93,22 +93,19 @@
 				<div class="col-md-4 col-sm-4">
 					<div>
 						<a href="/blog">					
-							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>						
-							<h3>Blogging</h3>
-								Gaming, Tech, and More! Join the discussion.
-						</a><br>
+							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
+						</a><br>					
+						<h3>Blogging</h3>
+						Gaming, Tech, and More! Join the discussion.
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<a href="discord.php">
+						<a href="streams.php">
 							<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
 						</a>
 						<h3>Streaming</h3>
-						<p>
-							Singleplayer, Co-op, and multiplayer! OH MY!
-						</p>
-						
+						Singleplayer, Co-op, and multiplayer! OH MY!						
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
@@ -117,9 +114,7 @@
 							<i class="fa fa-youtube-play" style="font-size: 400%; color:#ff0000"></i>
 						</a>
 						<h3>Youtube</h3>
-						<p>
-							I ain't a clip show, but I'll su... make you laugh.
-						</p>
+						I ain't a clip show, but I'll su... make you laugh.
 					</div>
 				</div>
 			</div>
