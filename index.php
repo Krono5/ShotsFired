@@ -120,7 +120,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
-					<h3>Instagram</h3>
+					<h2>Instagram</h2>
 					<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/19e7c6ee9bb451c49b4c412b8d3c5e77.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 				</div>
 				<div class="col-md-6 col-sm-6 streamer-box">
@@ -159,63 +159,6 @@
 		</div>
 
 
-	</section>
-	<!--End Services Section-->
-	<!--parallax one-->
-	<section id="Parallax-one">
-		<div class="container">
-
-			<div class="row text-center">
-				<div class="col-md-8 col-md-offset-2 ">
-					<h2>Other Media</h2>
-					<h4>
-						<strong>
-							Feel free to follow us on some of our other social media below!
-						</strong>
-					</h4>
-
-				</div>
-
-			</div>
-
-
-		</div>
-	</section>
-	<!--./parallax one-->
-	<!-- Pricing Section -->
-	<section id="price-sec">
-		<div class="container">
-			<div class="row text-center">
-				<div class="col-md-8 col-md-offset-2">
-
-					
-
-
-				</div>
-
-			</div>
-		</div>
-	</section>
-	<!--End Pricing Section -->
-	<!--parallax two-->
-	<section id="Parallax-two">
-		<div class="container">
-
-			<div class="row text-center">
-				<div class="col-md-8 col-md-offset-2 ">
-					<h2>
-						Made it!
-					</h2>
-					<h4>
-						<strong>
-							The bottom of the webpage! What a journey!
-						</strong>
-					</h4>
-				</div>
-			</div>
-
-
-		</div>
 	</section>
 	<!--footer Section -->
 	<div id="footer">
