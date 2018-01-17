@@ -128,11 +128,11 @@
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
-								<li class="active"><a href="#online-stream" data-toggle="tab">Online</a>
+								<li class="active"><a data-toggle="tab">Online</a>
 								</li>
-								<li class=""><a href="#offine-stream" data-toggle="tab">Offline</a>
+								<li class=""><a data-toggle="tab">Offline</a>
 								</li>
-								<li class=""><a href="#all-stream" data-toggle="tab">All</a>
+								<li class=""><a data-toggle="tab">All</a>
 								</li>
 							</ul>
 
