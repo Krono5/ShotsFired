@@ -94,10 +94,9 @@
 					<div>
 						<a href="/blog">					
 							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
-											
+						</a>											
 						<h3>Blogging</h3>
 						Gaming, Tech, and More! Join the discussion.
-						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
@@ -121,11 +120,15 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
-					<h2>Instagram</h2>
+					<div class="text-center">
+						<h2>Instagram</h2>
+					</div>
 					<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/19e7c6ee9bb451c49b4c412b8d3c5e77.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 				</div>
 				<div class="col-md-6 col-sm-6 streamer-box">
-					<h2>Streaming</h2>
+					<div class="text-center">
+						<h2>Streaming</h2>
+					</div>					
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
