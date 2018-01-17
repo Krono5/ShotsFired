@@ -16,39 +16,31 @@
 		<![endif]-->
 	<title>ShotsFired Stream Team</title>
 	<link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
-	<!-- BOOTSTRAP CORE STYLE CSS -->
-	<link rel="stylesheet" href="assets/css/bootstrap.css" />
 	<!--REQUIRED STYLE SHEETS-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
+	<!-- GOOGLE FONT -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
 	<!-- FONTAWESOME STYLE CSS -->
 	<link  rel="stylesheet" href="assets/css/font-awesome.min.css"/>
 	<!-- CUSTOM STYLE CSS -->
 	<link rel="stylesheet" href="assets/css/style.css" />
-	<!-- GOOGLE FONT -->
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
 	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 	<![endif]-->
-
 </head>
 <body>
 	<!--Header section  -->
 	<div id="header">
 		<?php include("header.html");?>
 	</div>
-
-	<a name="top_home"></a>
-
 	<div id="home">
-
-
 		<div class="container">
 			<div class="row ">
 				<div class="col-md-8 col-sm-6">
-					<h1 class="head-main">Shots Fired</h1>
+					<h1 class="head-main">ShotsFired</h1>
 					<span class="head-sub-main">Stream Team</span>
 					<div class="head-last">
 						Welcome to our website, the hub for all things ShotsFired! <br>
@@ -100,40 +92,36 @@
 			<div class="row text-center space-pad">
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
+						<a href="/blog">					
+							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
+						</a><br>					
 						<h3>Blogging</h3>
-						<p>
-							Gaming, Tech, and More! Join the discussion.
-						</p>
+						Gaming, Tech, and More! Join the discussion.
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
+						<a href="streams.php">
+							<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
+						</a>
 						<h3>Streaming</h3>
-						<p>
-							Singleplayer, Co-op, and multiplayer! OH MY!
-						</p>
+						Singleplayer, Co-op, and multiplayer! OH MY!						
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-youtube-play" style="font-size: 400%; color:#ff0000"></i>
+						<a href="https://www.youtube.com/channel/UCuhs4HbeDc6XEqaxg3Y_L1Q" target="_blank">
+							<i class="fa fa-youtube-play" style="font-size: 400%; color:#ff0000"></i>
+						</a>
 						<h3>Youtube</h3>
-						<p>
-							I ain't a clip show, but I'll su... make you laugh.
-						</p>
+						I ain't a clip show, but I'll su... make you laugh.
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row text-center">
 				<div class="col-md-6 col-sm-6">
-					<h3>
-						Featured Blog Post
-					</h3>
-					<p>
-						COMING SOON
-					</p>
+					<h2>Instagram</h2>
+					<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/19e7c6ee9bb451c49b4c412b8d3c5e77.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 				</div>
 				<div class="col-md-6 col-sm-6 streamer-box">
 					<div class="panel panel-default">
@@ -171,67 +159,6 @@
 		</div>
 
 
-	</section>
-	<!--End Services Section-->
-	<!--parallax one-->
-	<section id="Parallax-one">
-		<div class="container">
-
-			<div class="row text-center">
-				<div class="col-md-8 col-md-offset-2 ">
-					<h2>Other Media</h2>
-					<h4>
-						<strong>
-							Feel free to follow us on some of our other social media below!
-						</strong>
-					</h4>
-
-				</div>
-
-			</div>
-
-
-		</div>
-	</section>
-	<!--./parallax one-->
-	<!-- Pricing Section -->
-	<section id="price-sec">
-		<div class="container">
-			<div class="row text-center">
-				<div class="col-md-8 col-md-offset-2">
-
-					<h2>Instagram</h2>
-					<h4>
-						<strong>
-							#filter tho. COMING SOON.
-						</strong>
-					</h4>
-
-				</div>
-
-			</div>
-		</div>
-	</section>
-	<!--End Pricing Section -->
-	<!--parallax two-->
-	<section id="Parallax-two">
-		<div class="container">
-
-			<div class="row text-center">
-				<div class="col-md-8 col-md-offset-2 ">
-					<h2>
-						Made it!
-					</h2>
-					<h4>
-						<strong>
-							The bottom of the webpage! What a journey!
-						</strong>
-					</h4>
-				</div>
-			</div>
-
-
-		</div>
 	</section>
 	<!--footer Section -->
 	<div id="footer">
