@@ -103,20 +103,24 @@
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
-						<h3>Streaming</h3>
-						<p>
-							Singleplayer, Co-op, and multiplayer! OH MY!
-						</p>
+						<a href="discord.php">
+							<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
+							<h3>Streaming</h3>
+							<p>
+								Singleplayer, Co-op, and multiplayer! OH MY!
+							</p>
+						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-youtube-play" style="font-size: 400%; color:#ff0000"></i>
-						<h3>Youtube</h3>
-						<p>
-							I ain't a clip show, but I'll su... make you laugh.
-						</p>
+						<a href="https://www.youtube.com/channel/UCuhs4HbeDc6XEqaxg3Y_L1Q" target="_blank">
+							<i class="fa fa-youtube-play" style="font-size: 400%; color:#ff0000"></i>
+							<h3>Youtube</h3>
+							<p>
+								I ain't a clip show, but I'll su... make you laugh.
+							</p>
+						</a>
 					</div>
 				</div>
 			</div>
