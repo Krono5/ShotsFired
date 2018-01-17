@@ -91,26 +91,24 @@
 
 			<div class="row text-center space-pad">
 				<div class="col-md-4 col-sm-4">
-					<div>						
-						<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
-						<a href="/blog">
+					<div>
+						<a href="/blog">					
+							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>						
 							<h3>Blogging</h3>
-							<p>
 								Gaming, Tech, and More! Join the discussion.
-							</p>
 						</a><br>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div>
-						<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
 						<a href="discord.php">
-						
-							<h3>Streaming</h3>
-							<p>
-								Singleplayer, Co-op, and multiplayer! OH MY!
-							</p>
+							<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
 						</a>
+						<h3>Streaming</h3>
+						<p>
+							Singleplayer, Co-op, and multiplayer! OH MY!
+						</p>
+						
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
