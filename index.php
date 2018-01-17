@@ -94,9 +94,10 @@
 					<div>
 						<a href="/blog">					
 							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
-						</a><br>					
+											
 						<h3>Blogging</h3>
 						Gaming, Tech, and More! Join the discussion.
+						</a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
