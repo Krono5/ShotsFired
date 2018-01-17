@@ -118,12 +118,13 @@
 					</div>
 				</div>
 			</div>
-			<div class="row text-center">
+			<div class="row">
 				<div class="col-md-6 col-sm-6">
 					<h2>Instagram</h2>
 					<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/19e7c6ee9bb451c49b4c412b8d3c5e77.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 				</div>
 				<div class="col-md-6 col-sm-6 streamer-box">
+					<h2>Streaming</h2>
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<ul class="nav nav-pills" style="background-color: #ECECEC;">
