@@ -96,7 +96,9 @@
 							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
 						</a>											
 						<h3>Blogging</h3>
-						Gaming, Tech, and More! Join the discussion.
+						<p>
+							Gaming, Tech, and More! Join the discussion.
+						</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
@@ -105,7 +107,9 @@
 							<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
 						</a>
 						<h3>Streaming</h3>
-						Singleplayer, Co-op, and multiplayer! OH MY!						
+						<p>
+							Singleplayer, Co-op, and multiplayer! OH MY!
+						</p>					
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-4">
@@ -114,7 +118,9 @@
 							<i class="fa fa-youtube-play" style="font-size: 400%; color:#ff0000"></i>
 						</a>
 						<h3>Youtube</h3>
-						I ain't a clip show, but I'll su... make you laugh.
+						<p>
+							I ain't a clip show, but I'll su... make you laugh.
+						</p>
 					</div>
 				</div>
 			</div>
