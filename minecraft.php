@@ -39,7 +39,7 @@
 	</div>
 
 	<div id="header">
-		<?php include("assests/overviewer/ftb_revelation_1.12/index.html");?>
+		<?php include("assets/overviewer/ftb_revelation_1.12/index.html");?>
 	</div>
 
 	<div id="footer">
