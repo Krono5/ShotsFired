@@ -93,20 +93,20 @@ a { text-decoration : none; color : #000000; }
 }
 .navbar-header a {
     color:#ffffff !important;
-    padding-right:100px;
+
 }
 
 nav {
-	position: absolute;
-	width: 100%;
-    background: #fff;
+    position: absolute;
+    width: 100%;
+    background: transparent;
     z-index:99;
 }
 .fixed {
-	position: fixed;
-	top: 0;
-	min-height: 50px;
-	z-index: 99;
+    position: fixed;
+    top: 0;
+    min-height: 50px;
+    z-index: 99;
 }
 
 .navbar-inverse {
@@ -115,11 +115,10 @@ border-color: var(--blue);
 }
 
 .navbar-brand{
-overflow: visible;
-padding-top: 2px;
-padding-bottom: 0;
-max-width: 210px;
-vertical-align: middle;
+  overflow: hidden;
+  width: 100px;
+  height: 48px;
+  padding-top: 6px
 }
 
 /*=======================================
@@ -132,17 +131,17 @@ vertical-align: middle;
     color: white;
     border: none;
     cursor: pointer;
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     line-height: 48px;
     border-radius: 6px;
+    position: static;
 }
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
-    position: relative;
+    position: inherit;
     display: inline-block;
+    padding-left: 24px
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -243,64 +242,6 @@ min-height:250px;
 color:#fff;
 }
  #Parallax-one i {
-        color:#fff;
-    }
-/*=======================================
-    PRICING STYLES
-==================================================*/
-
-
-.plan {
-    background: #eef1f3;
-    padding: 0 0 15px 0;
-    margin: 30px 0px;
-    list-style: none;
-    text-align: center;
-
-}
-
-.plan-active {
-          -webkit-transform: scale(1.1);
-       -moz-transform: scale(1.1);
-        -ms-transform: scale(1.1);
-         -o-transform: scale(1.1);
-            transform: scale(1.1);
-}
-.head-active {
-    background-color: #658AEB!important;
-}
-.plan li {
-    padding: 15px 0px;
-    color: #434749;
-    border-top: 1px dashed #000;
-}
-
-.plan li.plan-head {
-   padding: 15px 0px;
-background-color: #6F6F6F;
-color: #FFFFFF;
-line-height: 20px;
-font-size: 20px;
-font-weight: 600;
-border: none;
-   }
-
-.plan li.main-price {
-   padding: 25px 0px;
-border: none;
-font-size: 30px;
-}
-#Parallax-two {
-    background-image: url("../img/2.jpg");
-padding:30px;
-background-repeat: no-repeat;
-background-position: center 0;
-background-size: cover;
-background-attachment: fixed;
-min-height:300px;
-color:#fff;
-}
-    #Parallax-two i {
         color:#fff;
     }
 
