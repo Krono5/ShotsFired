@@ -39,7 +39,7 @@
 	</div>
 
 	<iframe
-	  style="position: absolute; top: 100px; bottom: 0; left: 0; right: 0;  height: (100%-100px); width: 100%;"
+	  style="position: absolute; top: 20px; bottom: 0; left: 0; right: 0;  height: (100%-20px); width: 100%;"
 	  src="ftb_revelation_1.12/api.html" allowfullscreen>
 	</iframe>
 
