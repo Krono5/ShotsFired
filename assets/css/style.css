@@ -93,20 +93,20 @@ a { text-decoration : none; color : #000000; }
 }
 .navbar-header a {
     color:#ffffff !important;
-    padding-right:100px;
+
 }
 
 nav {
-	position: absolute;
-	width: 100%;
-    background: #fff;
+    position: absolute;
+    width: 100%;
+    background: transparent;
     z-index:99;
 }
 .fixed {
-	position: fixed;
-	top: 0;
-	min-height: 50px;
-	z-index: 99;
+    position: fixed;
+    top: 0;
+    min-height: 50px;
+    z-index: 99;
 }
 
 .navbar-inverse {
@@ -115,11 +115,10 @@ border-color: var(--blue);
 }
 
 .navbar-brand{
-overflow: visible;
-padding-top: 2px;
-padding-bottom: 0;
-max-width: 210px;
-vertical-align: middle;
+  overflow: hidden;
+  width: 100px;
+  height: 48px;
+  padding-top: 6px
 }
 
 /*=======================================
