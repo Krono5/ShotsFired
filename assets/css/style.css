@@ -36,26 +36,25 @@ h1 {
     text-transform:uppercase;
 
 }
-
 h2 {
     color:#27C00A;
     text-align: center;
 }
+    h2:after {
+      display: block;
+content: "";
+height: 2px;
+width: 150px;
+background: #27C00A;
+margin: 10px auto 40px;
 
-h2:after {
-    display: block;
-    content: "";
-    height: 2px;
-    width: 150px;
-    background: #27C00A;
-    margin: 10px auto 40px;
-}
+    }
+
 
 h3 {
     line-height:30px;
     padding-bottom:20px;
 }
-
 h4 {
     line-height:40px;
 }
@@ -71,6 +70,7 @@ p {
     padding-top:50px;
 }
 
+
 section {
     padding-top:50px;
     padding-bottom:40px;
@@ -79,81 +79,11 @@ section {
 a { text-decoration : none; color : #000000; }
 
 /*=======================================
-    HEADER STYLES
+    COLOR CODES
 ==================================================*/
-
-.head-main {
-  padding-top:150px;
-  font-size: 70px !important;
-  font-weight: 900!important;
-  color:#fff;
-}
-
-.head-main h2:after {
-
-}
-
-@media screen and (max-width: 768px){
-  .head-main{
-    padding-top:50px;
-  }
-}
-
-.head-sub-main {
-    font-size:40px !important;
-    font-weight:600!important;
-    padding:5px 20px 30px 20px;
+.main-color {
     color: #27C00A;
 }
-
-.head-last {
-    padding:5px 20px 150px 20px;
-    color:#fff;
-}
-
-@media screen and (max-width: 768px){
-  .head-last {
-    padding-bottom: 20px;
-  }
-}
-
-.rand-quote {
-  padding-left:15px;
-  padding-top:175px;
-  padding-bottom:0px;
-  font-size: 20;
-  color: #fff
-}
-
-@media screen and (max-width: 768px){
-  .rand-quote {
-    padding-top:20px;
-  }
-}
-
-#home {
-    background-image: url("../img/head.jpg");
-    background-repeat: no-repeat;
-    background-position: center 0;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
-.div-trans {
-    padding:5px;
-    background-color: rgba(0, 255, 41, 0.25);
-    margin-top: 200px;
-    color: #fff;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    margin-bottom:150px;
-}
-
-.div-trans .form-control {
-    background-color: rgba(255, 255, 255, 0);
-}
-
 
 /*=======================================
     NAVIGATION STYLES
@@ -163,20 +93,20 @@ a { text-decoration : none; color : #000000; }
 }
 .navbar-header a {
     color:#ffffff !important;
-
+    padding-right:100px;
 }
 
 nav {
-    position: absolute;
-    width: 100%;
-    background: transparent;
+	position: absolute;
+	width: 100%;
+    background: #fff;
     z-index:99;
 }
 .fixed {
-    position: fixed;
-    top: 0;
-    min-height: 50px;
-    z-index: 99;
+	position: fixed;
+	top: 0;
+	min-height: 50px;
+	z-index: 99;
 }
 
 .navbar-inverse {
@@ -185,10 +115,11 @@ border-color: var(--blue);
 }
 
 .navbar-brand{
-  overflow: hidden;
-  width: 100px;
-  height: 48px;
-  padding-top: 6px
+overflow: visible;
+padding-top: 2px;
+padding-bottom: 0;
+max-width: 210px;
+vertical-align: middle;
 }
 
 /*=======================================
@@ -201,17 +132,17 @@ border-color: var(--blue);
     color: white;
     border: none;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     line-height: 48px;
     border-radius: 6px;
-    position: static;
 }
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
-    position: inherit;
+    position: relative;
     display: inline-block;
-    padding-left: 24px
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -249,6 +180,49 @@ border-color: var(--blue);
     background-color: var(--green);
 }
 
+
+/*=======================================
+    HEADER STYLES
+==================================================*/
+
+.head-main {
+   font-size: 70px !important;
+font-weight: 900!important;
+ color:#fff;
+}
+.head-sub-main {
+    font-size:40px !important;
+    font-weight:600!important;
+    padding:5px 20px 30px 20px;
+    color: #27C00A;
+}
+.head-last {
+
+    padding:5px 20px 200px 20px;
+    color:#fff;
+}
+#home {
+    background-image: url("../img/head.jpg");
+background-repeat: no-repeat;
+background-position: center 0;
+background-size: cover;
+background-attachment: fixed;
+min-height:300px;
+}
+.div-trans {
+    padding:5px;
+    background-color: rgba(0, 255, 41, 0.25);
+margin-top: 100px;
+color: #fff;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+margin-bottom:30px;
+}
+    .div-trans .form-control {
+        background-color: rgba(255, 255, 255, 0);
+    }
+
 /*=======================================
     Services  STYLES
 ==================================================*/
@@ -269,6 +243,64 @@ min-height:250px;
 color:#fff;
 }
  #Parallax-one i {
+        color:#fff;
+    }
+/*=======================================
+    PRICING STYLES
+==================================================*/
+
+
+.plan {
+    background: #eef1f3;
+    padding: 0 0 15px 0;
+    margin: 30px 0px;
+    list-style: none;
+    text-align: center;
+
+}
+
+.plan-active {
+          -webkit-transform: scale(1.1);
+       -moz-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+         -o-transform: scale(1.1);
+            transform: scale(1.1);
+}
+.head-active {
+    background-color: #658AEB!important;
+}
+.plan li {
+    padding: 15px 0px;
+    color: #434749;
+    border-top: 1px dashed #000;
+}
+
+.plan li.plan-head {
+   padding: 15px 0px;
+background-color: #6F6F6F;
+color: #FFFFFF;
+line-height: 20px;
+font-size: 20px;
+font-weight: 600;
+border: none;
+   }
+
+.plan li.main-price {
+   padding: 25px 0px;
+border: none;
+font-size: 30px;
+}
+#Parallax-two {
+    background-image: url("../img/2.jpg");
+padding:30px;
+background-repeat: no-repeat;
+background-position: center 0;
+background-size: cover;
+background-attachment: fixed;
+min-height:300px;
+color:#fff;
+}
+    #Parallax-two i {
         color:#fff;
     }
 
@@ -294,4 +326,3 @@ color:#fff;
     padding:20px 50px 20px 50px;
     text-align:right;
 }
-
