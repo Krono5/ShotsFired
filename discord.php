@@ -4,7 +4,7 @@
 	    <?php include('assets/resources.php'); ?>
 	</head>
 
-	<body style="margin-top: 110px">
+	<body>
 		<?php include('header.php'); ?>
 		
 
