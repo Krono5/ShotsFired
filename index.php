@@ -40,8 +40,7 @@
 		<div class="container">
 			<div class="row ">
 				<div class="col-md-8 col-sm-6">
-					<h1 class="head-main">ShotsFired</h1>
-					<span class="head-sub-main">Stream Team</span>
+					<span class="head-main">ShotsFired Team</span>
 					<div class="head-last">
 						Welcome to our website, the hub for all things ShotsFired! <br>
 					</div>
