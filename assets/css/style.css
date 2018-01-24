@@ -36,6 +36,7 @@ h1 {
     text-transform:uppercase;
 
 }
+
 h2 {
     color:#27C00A;
     text-align: center;
@@ -50,11 +51,11 @@ h2:after {
     margin: 10px auto 40px;
 }
 
-
 h3 {
     line-height:30px;
     padding-bottom:20px;
 }
+
 h4 {
     line-height:40px;
 }
@@ -70,56 +71,27 @@ p {
     padding-top:50px;
 }
 
-
 section {
     padding-top:50px;
     padding-bottom:40px;
 }
 
-a { text-decoration : none; color : #000000; }
-
-/*=======================================
-    COLOR CODES
-==================================================*/
-.main-color {
-    color: #27C00A;
-}
-
-/*=======================================
-    NAVIGATION STYLES
-==================================================*/
-.navbar a {
-    color:#ffffff !important;
-}
-.navbar-header a {
-    color:#ffffff !important;
-    padding-right:100px;
+a { 
+    text-decoration : none; 
+    color : #000000; 
 }
 
 nav {
-	position: absolute;
-	width: 100%;
+    position: absolute;
+    width: 100%;
     background: #fff;
     z-index:99;
 }
 .fixed {
-	position: fixed;
-	top: 0;
-	min-height: 50px;
-	z-index: 99;
-}
-
-.navbar-inverse {
-    background-color: var(--blue);
-    border-color: var(--blue);
-}
-
-.navbar-brand{
-    overflow: visible;
-    padding-top: 2px;
-    padding-bottom: 0;
-    max-width: 210px;
-    vertical-align: middle;
+    position: fixed;
+    top: 0;
+    min-height: 50px;
+    z-index: 99;
 }
 
 /*=======================================
@@ -134,7 +106,7 @@ nav {
 }
 
 .head-main h2:after {
-    
+
 }
 
 @media screen and (max-width: 768px){
