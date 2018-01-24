@@ -42,6 +42,15 @@ h2 {
     text-align: center;
 }
 
+h2:after {
+    display: block;
+    content: "";
+    height: 2px;
+    width: 150px;
+    background: #27C00A;
+    margin: 10px auto 40px;
+}
+
 h3 {
     line-height:30px;
     padding-bottom:20px;
@@ -86,6 +95,28 @@ nav {
 }
 
 /*=======================================
+    COLOR CODES
+==================================================*/
+.main-color {
+    color: #27C00A;
+}
+
+
+
+.navbar-inverse {
+    background-color: var(--blue);
+    border-color: var(--blue);
+}
+
+.navbar-brand{
+    overflow: visible;
+    padding-top: 2px;
+    padding-bottom: 0;
+    max-width: 210px;
+    vertical-align: middle;
+}
+
+/*=======================================
     HEADER STYLES
 ==================================================*/
 
@@ -94,6 +125,10 @@ nav {
   font-size: 70px !important;
   font-weight: 900!important;
   color:#fff;
+}
+
+.head-main h2:after {
+
 }
 
 @media screen and (max-width: 768px){
@@ -157,18 +192,6 @@ nav {
     background-color: rgba(255, 255, 255, 0);
 }
 
-/*=======================
-    Services STYLES
-========================*/
-
-.services h2:after {
-    display: block;
-    content: "";
-    height: 2px;
-    width: 150px;
-    background: #27C00A;
-    margin: 10px auto 40px;
-}
 
 /*=======================================
     NavPills  STYLES
