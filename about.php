@@ -1,49 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
-
-    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-    <meta property="og:title" content="">
-    <meta property="og:image" content="">
-    <meta property="og:url" content="">
-    <meta property="og:site_name" content="">
-    <meta property="og:description" content="">
-
-    <!-- Twitter Cards integration: https://dev.twitter.com/cards/  -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="">
-    <meta name="twitter:title" content="">
-    <meta name="twitter:description" content="">
-    <meta name="twitter:image" content="">
-
-    <title>ShotsFired Team</title>
-
-
-  <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
-
-    <!-- Google Fonts -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">
- -->
-
-    <!-- BOOTSTRAP CORE STYLE CSS -->
-  <link href="assets/css/bootstrap.css" rel="stylesheet" />
-  <!-- FONTAWESOME STYLE CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
- <!--  <link href="assets/css/font-awesome.min.css" rel="stylesheet" /> -->
-
-  <!-- Main Stylesheet File -->
-  <link href="assets/css/styleAbout.css" rel="stylesheet">
-
-    <!-- =======================================================
-      Theme Name: Bell
-      Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-      Author: BootstrapMade.com
-      Author URL: https://bootstrapmade.com
-    ======================================================= -->
+    <?php include('assets/resources.php'); ?>
   </head>
   <body>
     <!-- Page Content
