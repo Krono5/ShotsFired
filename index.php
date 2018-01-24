@@ -91,42 +91,40 @@
 			<div class="row text-center space-pad">
 				<a href="/blog">
 					<div class="col-md-4 col-sm-4">
-						<div>
-												
-								<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
-																		
-								<h3>Blogging</h3>
-								<p>
-									Gaming, Tech, and More! Join the discussion.
-								</p>
-							
+						<div>												
+							<i class="fa fa-bullhorn" style="font-size: 400%; color:#c97200"></i>
+																	
+							<h3>Blogging</h3>
+							<p>
+								Gaming, Tech, and More! Join the discussion.
+							</p>							
 						</div>
 					</div>
 				</a>
-				<div class="col-md-4 col-sm-4">
-					<div>
-						<a href="streams.php">
+				<a href="streams.php">
+					<div class="col-md-4 col-sm-4">
+						<div>
 							<i class="fa fa-twitch" style="font-size: 400%; color:#6441a5"></i>
-						
+							
 							<h3>Streaming</h3>
 							<p>
 								Singleplayer, Co-op, and multiplayer! OH MY!
-							</p>
-						</a>					
+							</p>				
+						</div>
 					</div>
-				</div>
-				<div class="col-md-4 col-sm-4">
-					<div>
-						<a href="https://www.youtube.com/channel/UCuhs4HbeDc6XEqaxg3Y_L1Q" target="_blank">
+				</a>
+				<a href="https://www.youtube.com/channel/UCuhs4HbeDc6XEqaxg3Y_L1Q" target="_blank">
+					<div class="col-md-4 col-sm-4">
+						<div>						
 							<i class="fa fa-youtube-play" style="font-size: 400%; color:#ff0000"></i>
 						
 							<h3>Youtube</h3>
 							<p>
 								I ain't a clip show, but I'll su... make you laugh.
-							</p>
-						</a>
+							</p>						
+						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
