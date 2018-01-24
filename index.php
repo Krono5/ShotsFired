@@ -79,14 +79,12 @@
 	<!--End Header section  -->
 	<!--Services Section-->
 	<section id="services">
-		<div class="container" class="services">
-
+		<div class="container">
 			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2">
 					<h2>What We Do</h2>
 				</div>
 			</div>
-
 
 			<div class="row text-center space-pad">
 				<a href="/blog">
