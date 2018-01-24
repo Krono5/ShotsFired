@@ -17,12 +17,15 @@
 	<title>ShotsFired Team</title>
 	<link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
 	<!--REQUIRED STYLE SHEETS-->
+	
+	<!-- BOOTSTRAP CORE STYLE CSS -->
+	<link href="assets/css/bootstrap.css" rel="stylesheet" />
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 	<!-- GOOGLE FONT -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
 	<!-- FONTAWESOME STYLE CSS -->
-	<link  rel="stylesheet" href="assets/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css"/>
 	<!-- CUSTOM STYLE CSS -->
 	<link rel="stylesheet" href="assets/css/style.css" />
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
