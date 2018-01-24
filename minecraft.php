@@ -43,10 +43,6 @@
 	  src="ftb_revelation_1.12/api.html" allowfullscreen>
 	</iframe>
 
-	<!-- <div id="minecraft">
-		<?php include("ftb_revelation_1.12/api.html");?>
-	</div> -->
-
 	<div id="footer">
 		<?php include("footer.html");?>
 	</div>
