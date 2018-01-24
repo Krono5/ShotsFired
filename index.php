@@ -5,9 +5,7 @@
 	</head>
 	<body>
 		<!--Header section  -->
-		<div id="header">
-			<?php include("header.php");?>
-		</div>
+		<?php include("header.php");?>
 		<div id="home">
 			<div class="container">
 				<div class="row ">
