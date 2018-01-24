@@ -20,7 +20,7 @@
     <meta name="twitter:description" content="">
     <meta name="twitter:image" content="">
 
-    <title>ShotsFired Stream Team</title>
+    <title>ShotsFired Team</title>
 
 
   <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">

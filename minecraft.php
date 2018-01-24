@@ -13,7 +13,7 @@
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<![endif]-->
-	<title>ShotsFired Stream Team</title>
+	<title>ShotsFired Team</title>
   <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
 	<!--REQUIRED STYLE SHEETS-->
 	<!-- BOOTSTRAP CORE STYLE CSS -->
@@ -38,17 +38,10 @@
 		<?php include("header.html");?>
 	</div>
 
-
-
-
-
-
-
-
-
-
-
-
+	<iframe
+	  style="position: absolute; top: 48px; bottom: 0; left: 0; right: 0;  height: calc(100% - 48px); width: 100%;"
+	  src="ftb_revelation_1.12/api.html" allowfullscreen>
+	</iframe>
 
 	<div id="footer">
 		<?php include("footer.html");?>
