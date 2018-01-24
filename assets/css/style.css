@@ -1,4 +1,4 @@
-﻿/*=============================================================
+﻿9/*=============================================================
     Authour URI: www.binarytheme.com
     License: Commons Attribution 3.0
 
@@ -190,6 +190,10 @@ vertical-align: middle;
 font-weight: 900!important;
  color:#fff;
 }
+
+.head-main h2:after {
+}
+
 .head-sub-main {
     font-size:40px !important;
     font-weight:600!important;
