@@ -79,7 +79,7 @@
 	<!--End Header section  -->
 	<!--Services Section-->
 	<section id="services">
-		<div class="container">
+		<div class="container" class="services">
 
 			<div class="row text-center">
 				<div class="col-md-8 col-md-offset-2">
