@@ -4,11 +4,7 @@
     <?php include('assets/resources.php'); ?>
   </head>
   <body>
-    <!-- Page Content
-    ================================================== -->
-    <div>
-      <?php include("header.html");?>
-    </div>
+    <?php include("header.php");?>
 
     <!-- Team -->
 
@@ -168,9 +164,6 @@
       </div>
     </section>
 
-    <div>
-      <?php include("footer.html");?>
-    </div>
-
+    <?php include("footer.php");?>
   </body>
 </html>
