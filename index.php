@@ -177,15 +177,13 @@
 	<div id="footer">
 		<?php include("footer.html");?>
 	</div>
-	<!--End footer Section -->
-	<!-- JAVASCRIPT FILES PLACED AT THE BOTTOM TO REDUCE THE LOADING TIME  -->
-	<!-- CORE JQUERY  -->
+
+	<script src="jquery.min.js"></script>
+	<script src="bootstrap.min.js"></script>
+	<script src="bootstrap-table.js"></script>
+	<script src="bootstrap-table-zh-CN.js"></script>
 	<script src="assets/plugins/jquery-1.10.2.js"></script>
-	<!-- BOOTSTRAP CORE SCRIPT   -->
-	<script src="assets/plugins/bootstrap.js"></script>
-	<!-- PARALLAX SCRIPT   -->
 	<script src="assets/plugins/4jquery.parallax-1.1.3.js"></script>
-	<!-- CUSTOM SCRIPT   -->
 	<script src="assets/js/custom.js"></script>
 </body>
 
