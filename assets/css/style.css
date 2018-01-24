@@ -76,23 +76,7 @@ section {
     padding-bottom:40px;
 }
 
-a { 
-    text-decoration : none; 
-    color : #000000; 
-}
-
-nav {
-    position: absolute;
-    width: 100%;
-    background: #fff;
-    z-index:99;
-}
-.fixed {
-    position: fixed;
-    top: 0;
-    min-height: 50px;
-    z-index: 99;
-}
+a { text-decoration : none; color : #000000; }
 
 /*=======================================
     COLOR CODES
@@ -101,7 +85,29 @@ nav {
     color: #27C00A;
 }
 
+/*=======================================
+    NAVIGATION STYLES
+==================================================*/
+.navbar a {
+    color:#ffffff !important;
+}
+.navbar-header a {
+    color:#ffffff !important;
+    padding-right:100px;
+}
 
+nav {
+	position: absolute;
+	width: 100%;
+    background: #fff;
+    z-index:99;
+}
+.fixed {
+	position: fixed;
+	top: 0;
+	min-height: 50px;
+	z-index: 99;
+}
 
 .navbar-inverse {
     background-color: var(--blue);
