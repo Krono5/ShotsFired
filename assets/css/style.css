@@ -90,8 +90,7 @@
 	}
 
 	.navbar-brand{
-		height: 48px;
-		padding-top: 6px
+		padding: 6px;
 	}
 
 	.navbar-logo {
