@@ -58,7 +58,7 @@
 					</div>
 				</div>
 
-				<div class="row text-center space-pad">
+				<div class="row text-center">
 					<a href="/blog">
 						<div class="col-md-4 col-sm-4">
 							<div>												

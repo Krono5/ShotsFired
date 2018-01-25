@@ -12,8 +12,4 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css"/>
 	<link rel="stylesheet" href="assets/css/style.css" />
-
-	<script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
