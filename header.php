@@ -16,7 +16,7 @@
 					<a href="/" class="navbar-brand"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
 				</div>
 				<div class="collapse navbar-collapse" id="headerNavbar">
-					<u1 class="nav navbar-nav navbar-right">
+					<u1 class="nav navbar-nav">
 						<li><div class="dropdown text-center">
 	 						<button class="dropbtn" onclick="window.location='/'">HOME</button>
 						</div></li>
