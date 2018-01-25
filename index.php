@@ -12,7 +12,9 @@
 					<div class="col-md-8 col-sm-6">
 						<h1 class="head-main">ShotsFired Team</h1>
 						<div class="head-last">
-							Welcome to our website, the hub for all things ShotsFired! <br>
+							<p class="head-last">
+								Welcome to our website, the hub for all things ShotsFired!
+							</p>
 						</div>
 
 					</div>
