@@ -94,8 +94,8 @@
 	}
 
 	.navbar-inverse .navbar-toggle {
-		background-color: var(--blue);
-		border-color: var(--blue);
+		background-color: none;
+		border-color: none;
 		border-radius: 0px;
 	}
 
