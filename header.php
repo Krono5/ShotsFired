@@ -5,7 +5,7 @@
 		<?php include('assets/resources.php'); ?>
 	</head>
 	<body>
-	 	<nav class="navbar navbar-inverse">
+	 	<nav class="navbar navbar-inverse" id="header">
 			<div class="container-fluid">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#headerNavbar">
