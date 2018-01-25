@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 
 <html lang="en">
-	<?php include('assets/resources.php'); ?>
+	<head>
+		<?php include('assets/resources.php'); ?>
+	</head>
 	<body>
 	 	<nav class="navbar navbar-inverse">
 			<div class="container-fluid">
