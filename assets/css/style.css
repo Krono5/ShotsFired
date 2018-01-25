@@ -93,7 +93,7 @@
 		border-radius: 0px;
 	}
 
-	.navbar-inverse .navbar-toggle, 
+	.navbar-inverse .navbar-toggle button, 
 	.navbar-inverse .navbar-toggle.collapsed, 
 	.navbar-inverse .navbar-toggle:hover,
 	.navbar-inverse .navbar-toggle:active {
