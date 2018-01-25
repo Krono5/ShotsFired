@@ -180,13 +180,9 @@
 
 	.head-main {
 		padding-top:150px;
-		font-size: 70px !important;
-		font-weight: 900!important;
+		font-size: 60px;
+		font-weight: 900;
 		color:#fff;
-	}
-
-	.head-main h1 {
-		font-size: 30px;
 	}
 
 	@media screen and (max-width: 768px){
