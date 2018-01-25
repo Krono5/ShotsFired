@@ -8,12 +8,12 @@
 	 	<nav class="navbar navbar-inverse">
 			<div class="container-fluid">
 				<div class="navbar-header">
+					<a href="/" class="navbar-brand"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#headerNavbar">
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span> 
-			        </button>
-					<a href="/" class="navbar-brand"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
+			        </button>					
 				</div>
 				<div class="collapse navbar-collapse" id="headerNavbar">
 					<u1 class="nav navbar-nav navbar-right">
