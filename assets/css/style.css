@@ -93,6 +93,12 @@
 		border-radius: 0px;
 	}
 
+	.navbar-inverse .navbar-toggle {
+		background-color: var(--blue);
+		border-color: var(--blue);
+		border-radius: 0px;
+	}
+
 	.navbar-brand{
 		padding: 6px;
 		padding-left: 15px
