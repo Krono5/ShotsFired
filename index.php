@@ -10,7 +10,7 @@
 			<div class="container">
 				<div class="row ">
 					<div class="col-md-8 col-sm-6">
-						<h1 class="head-main">ShotsFired Team</h1>
+						<h1 class="head-main text-center">ShotsFired Team</h1>
 						<div class="head-last">
 							<p class="head-last">
 								Welcome to our website, the hub for all things ShotsFired!
