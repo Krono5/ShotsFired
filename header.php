@@ -8,7 +8,7 @@
 	 	<nav class="navbar navbar-inverse">
 			<div class="container-fluid">
 				<div class="navbar-header">
-					<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target="#headerNavbar">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#headerNavbar">
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span> 
