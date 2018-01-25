@@ -8,7 +8,7 @@
 		 <header>
 			<nav class="navbar navbar-inverse" role="navigation">
 				<div class="container">
-					<a href="/" class="navbar-brand"><img class="" src="assets/img/logo_white.png"> </a>
+					<a href="/" class="navbar-brand"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 							<span class="sr-only">Toggle navigation</span>
