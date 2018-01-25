@@ -93,17 +93,19 @@
 		border-radius: 0px;
 	}
 
-	.navbar-inverse .navbar-toggle {
+	.navbar-inverse .navbar-toggle, 
+	.navbar-inverse .navbar-toggle:hover,
+	.navbar-inverse .navbar-toggle .collapsed {
 		background-color: transparent;
 		border-color: transparent;
 		border-radius: 0px;
 	}
 
-	.navbar-inverse .navbar-toggle:hover {
+	 {
 		background-color: transparent;
 	}
 
-	.navbar-inverse .navbar-toggle:active {
+	 {
 		background-color: transparent;
 	}
 
