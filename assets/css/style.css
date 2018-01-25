@@ -184,10 +184,12 @@
 		font-weight: 900!important;
 		color:#fff;
 	}
-	
+
 	.head-main h1{
 		margin: .67em 0;
 		font-size: 2em;
+		margin-top: 0px;
+		text-transform: none;
 	}
 
 	@media screen and (max-width: 768px){
