@@ -5,7 +5,7 @@
 		<?php include('assets/resources.php'); ?>
 	</head>
 	<body>
-	 	<nav class="navbar navbar-inverse" role="navigation">
+	 	<nav class="navbar navbar-inverse">
 			<div class="container-fluid">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#headerNavbar">
@@ -52,8 +52,5 @@
 				</div>
 			</div>
 		</nav>
-		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	</body>
 </html>
