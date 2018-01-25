@@ -9,7 +9,7 @@
 			<div class="container-fluid">
 				<div class="navbar-header">
 					<a href="/" class="navbar-brand"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#headerNavbar">
+					<button type="button" class="navbar-toggle" data-target="#headerNavbar">
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span> 
