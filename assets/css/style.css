@@ -188,6 +188,7 @@
 	@media screen and (max-width: 768px){
 		.head-main{
 			padding-top:50px;
+			text-align: center;
 		}
 	}
 	.head-last {
