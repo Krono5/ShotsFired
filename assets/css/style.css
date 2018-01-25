@@ -94,7 +94,7 @@
 	}
 
 	.navbar-inverse .navbar-toggle, 
-	.navbar-inverse .navbar-toggle:visited, 
+	.navbar-inverse .navbar-toggle.collapsed, 
 	.navbar-inverse .navbar-toggle:hover,
 	.navbar-inverse .navbar-toggle:active {
 		background-color: transparent;
