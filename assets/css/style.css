@@ -78,20 +78,21 @@
 /*=======================================
 	NAVIGATION STYLES
 	==================================================*/
-	.navbar a {
-		color:#ffffff !important;
-	}
-	.navbar-header a {
-		color:#ffffff !important;
-	}
-
 	nav {
 		position: absolute;
 		width: 100%;
 		background: transparent;
 		z-index:99;
 	}
-	
+
+	.navbar a {
+		color:#ffffff !important;
+	}
+
+	.navbar-header a {
+		color:#ffffff !important;
+	}	
+
 	.navbar-inverse {
 		background-color: var(--blue);
 		border-color: var(--blue);
@@ -103,7 +104,7 @@
 	}
 
 	.navbar-logo {
-		height: .navbar-brand;
+		height: 48px;
 	}
 
 /*=======================================
