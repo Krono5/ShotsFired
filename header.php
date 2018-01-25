@@ -33,7 +33,7 @@
 						<li><div class="dropdown text-center">
 	 						<button class="dropbtn">JOIN US</button>
 	  							<div class="dropdown-content">
-	    							<a href="/discord">Discord</a>
+	    							<a href="/discord.php">Discord</a>
 	    							<a href="/minecraft.php">Minecraft</a>
 	  							</div>
 						</div></li>
