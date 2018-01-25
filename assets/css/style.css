@@ -87,7 +87,7 @@
 		margin-bottom: 0px;
 	}
 
-	.navbar-inverse .navbar-toggle {
+	.navbar-inverse {
 		background-color: var(--blue);
 		border-color: var(--blue);
 		border-radius: 0px;
