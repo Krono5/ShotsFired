@@ -99,6 +99,10 @@
 		height: 100%;
 	}
 
+	.navbar a:hover, .dropdown:hover .dropbtn {
+    	background-color: var(--green);
+	}
+
 /*=======================================
 	DROPDOWN  STYLES
 	==================================================*/
