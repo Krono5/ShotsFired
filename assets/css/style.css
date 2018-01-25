@@ -91,6 +91,7 @@
 	.navbar-inverse {
 		background-color: var(--blue);
 		border-color: var(--blue);
+		height: 100%;
 	}
 
 	.navbar-logo {
@@ -99,6 +100,7 @@
 
 	.navbar a:hover, .dropdown:hover .dropbtn {
     	background-color: var(--green);
+    	height: 100%;
 	}
 
 	.navbar-toggle {
@@ -112,6 +114,7 @@
 	    background-image: none;
 	    border: 1px solid transparent;
 	    border-radius: 4px;
+	    height: 100%;
 	}
 
 /*=======================================
