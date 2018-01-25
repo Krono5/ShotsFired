@@ -13,7 +13,7 @@
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span> 
 			        </button>
-					<a href="/" class="navbar-brand"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
+					<a href="/"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
 				</div>
 				<div class="collapse navbar-collapse" id="headerNavbar">
 					<u1 class="nav navbar-nav navbar-right">
