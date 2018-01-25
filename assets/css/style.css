@@ -87,6 +87,7 @@
 	.navbar-inverse {
 		background-color: var(--blue);
 		border-color: var(--blue);
+		border-radius: 0px;
 	}
 
 	.navbar-brand{
@@ -197,6 +198,7 @@
 			padding-top:50px;
 		}
 		.head-main h1{
+			padding-top: 0px;
 			margin: .67em 0;
     		font-size: 2em;
 		}
