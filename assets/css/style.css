@@ -101,18 +101,6 @@
 		border-radius: 0px;
 	}
 
-	 {
-		background-color: transparent;
-	}
-
-	 {
-		background-color: transparent;
-	}
-
-	.navbar-inverse .navbar-toggle:visited {
-		background-color: transparent;
-	}
-
 	.navbar-brand{
 		padding: 6px;
 		padding-left: 15px
