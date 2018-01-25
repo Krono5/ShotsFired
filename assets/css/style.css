@@ -99,6 +99,12 @@
 		border-radius: 0px;
 	}
 
+	.navbar-inverse .navbar-toggle:hover {
+		background-color: transparent;
+		border-color: transparent;
+		border-radius: 0px;
+	}
+
 	.navbar-brand{
 		padding: 6px;
 		padding-left: 15px
