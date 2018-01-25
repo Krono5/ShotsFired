@@ -91,13 +91,7 @@
 		background: transparent;
 		z-index:99;
 	}
-	.fixed {
-		position: fixed;
-		top: 0;
-		min-height: 50px;
-		z-index: 99;
-	}
-
+	
 	.navbar-inverse {
 		background-color: var(--blue);
 		border-color: var(--blue);
@@ -106,6 +100,10 @@
 	.navbar-brand{
 		height: 48px;
 		padding-top: 6px
+	}
+
+	.navbar-logo {
+		height: .navbar-brand;
 	}
 
 /*=======================================
