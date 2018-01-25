@@ -193,13 +193,12 @@
 	}
 
 	.head-last {
-		padding:5px 20px 150px 20px;
+		padding:5px 20px 50px 20px;
 		color:#fff;
 	}
 
 	.head-last p {
 		font-size: 18px 
-		padding-bottom: 0px;
 	}
 
 	@media screen and (max-width: 768px){
