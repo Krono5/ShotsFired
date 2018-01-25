@@ -8,7 +8,7 @@
 		<?php include('header.php'); ?>
 		
 
-		<iframe style="height: 100%; width: 100%;" src="https://discordapp.com/widget?id=130742910265065472&theme=dark" frameborder="0" allowfullscreen></iframe>
+		<iframe src="https://discordapp.com/widget?id=130742910265065472&theme=dark" width="700" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 
 
