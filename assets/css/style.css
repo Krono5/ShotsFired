@@ -191,19 +191,27 @@
 			text-align: center;
 		}
 	}
+
 	.head-last {
 		padding:5px 20px 150px 20px;
 		color:#fff;
 	}
+
 	.head-last p {
 		font-size: 18px 
 	}
+
 	@media screen and (max-width: 768px){
 		.head-last {
 			padding-bottom: 20px;
 			text-align: center;
 		}
+
+		.head-last p {
+			text-align: center; 
+		}
 	}
+
 	.rand-quote {
 		padding-left:15px;
 		padding-top:175px;
@@ -211,11 +219,13 @@
 		font-size: 20;
 		color: #fff
 	}
+
 	@media screen and (max-width: 768px){
 		.rand-quote {
 			padding-top:20px;
 		}
 	}
+
 	#home {
 		background-image: url("../img/head.jpg");
 		background-repeat: no-repeat;
@@ -223,6 +233,7 @@
 		background-size: cover;
 		background-attachment: fixed;
 	}
+
 	.div-trans {
 		padding:5px;
 		background-color: rgba(0, 255, 41, 0.25);
@@ -233,6 +244,7 @@
 		border-radius: 5px;
 		margin-bottom:150px;
 	}
+	
 	.div-trans .form-control {
 		background-color: rgba(255, 255, 255, 0);
 	}
