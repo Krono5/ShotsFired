@@ -9,14 +9,6 @@
 			<nav class="navbar navbar-inverse" role="navigation">
 				<div class="container">
 					<a href="/" class="navbar-brand"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-					</div>
 					<nav class="navbar navbar-inverse navbar-right">
 						<li><div class="dropdown text-center">
 	 						<button class="dropbtn" onclick="window.location='/'">HOME</button>
