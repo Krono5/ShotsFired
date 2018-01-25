@@ -7,7 +7,9 @@
 	<body>
 		 <header>
 			<div class="container">
-				<a href="/" class="navbar-brand"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
+				<div>
+					<a href="/" class="navbar-brand"><img class="navbar-logo" src="assets/img/logo_white.png"> </a>
+				</div>
 				<nav class="navbar navbar-inverse navbar-right" role="navigation">
 					<li><div class="dropdown text-center">
  						<button class="dropbtn" onclick="window.location='/'">HOME</button>
