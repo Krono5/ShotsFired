@@ -377,9 +377,14 @@
 /*=======================================
 	FOOTER STYLES
 	==================================================*/
-	#footer p {
+	#footer {
 		background-color:var(--blue);
 		color:#fff;
 		padding:20px 50px 20px 50px;
 		text-align:right;
+	}
+
+	#footer a {
+		text-decoration : none; 
+		color : #000000; 
 	}

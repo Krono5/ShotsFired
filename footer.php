@@ -4,7 +4,7 @@
     	<?php include('assets/resources.php'); ?>
   	</head>
 	<body>
-		<div class="for-full-back " id="footer">
+		<div class="for-full-back" id="footer">
 			&copy 2017
 			<a href="/#top_home">
 				shotsfired.xyz </a>
