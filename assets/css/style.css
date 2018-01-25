@@ -377,7 +377,7 @@
 /*=======================================
 	FOOTER STYLES
 	==================================================*/
-	#footer {
+	#footer p {
 		background-color:var(--blue);
 		color:#fff;
 		padding:20px 50px 20px 50px;

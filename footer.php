@@ -6,7 +6,7 @@
 	<body>
 		<div class="for-full-back " id="footer">
 			&copy 2017
-			<a href="index.php#top_home">
+			<a href="/#top_home">
 				shotsfired.xyz </a>
 			| All Right Reserved
 		</div>
