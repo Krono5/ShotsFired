@@ -103,6 +103,10 @@
     	background-color: var(--green);
 	}
 
+	.navbar .btn-navbar {
+    	display: inline-block;
+	}
+
 /*=======================================
 	DROPDOWN  STYLES
 	==================================================*/

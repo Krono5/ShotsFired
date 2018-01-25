@@ -8,7 +8,7 @@
 	 	<nav class="navbar navbar-inverse">
 			<div class="container-fluid">
 				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#headerNavbar">
+					<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target="#headerNavbar">
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span> 
@@ -24,12 +24,9 @@
 						<li><div class="dropdown text-center">
 	 						<button class="dropbtn">MEDIA</button>
 	  							<div class="dropdown-content">
-	  								<a href="/blog">
-	  										Blog</a>	    							
-	    							<a href="/streams.php">
-											Streams</a>
-									<a href="https://www.youtube.com/channel/UCuhs4HbeDc6XEqaxg3Y_L1Q" target="_blank">
-											YouTube</a>
+	  								<a href="/blog">Blog</a>
+	    							<a href="/streams.php">Streams</a>
+									<a href="https://www.youtube.com/channel/UCuhs4HbeDc6XEqaxg3Y_L1Q" target="_blank">YouTube</a>
 	  							</div>
 						</div></li>
 
