@@ -11,7 +11,7 @@
 	GENERAL STYLES
 	==================================================*/
 	body {
-		min-width:400px
+		min-width:400px;
    		width: auto !important;
 		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
