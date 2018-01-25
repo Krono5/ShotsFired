@@ -88,6 +88,10 @@
 		height: 60px;
 	}
 
+	container-fluid {
+		height: 100%
+	}
+
 	.navbar-inverse {
 		background-color: var(--blue);
 		border-color: var(--blue);
