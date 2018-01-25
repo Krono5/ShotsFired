@@ -201,6 +201,7 @@
 	@media screen and (max-width: 768px){
 		.head-last {
 			padding-bottom: 20px;
+			text-align: center;
 		}
 	}
 	.rand-quote {
