@@ -23,10 +23,6 @@
 		font-family: 'Open Sans', sans-serif;
 	}
 
-	h1 {
-		font-size: 30px;
-	}
-
 	h2 {
 		color:#27C00A;
 		text-align: center;
@@ -189,6 +185,10 @@
 		color:#fff;
 	}
 
+	.head-main h1 {
+		font-size: 30px;
+	}
+
 	@media screen and (max-width: 768px){
 		.head-main{
 			padding-top:50px;
@@ -199,7 +199,7 @@
 		color:#fff;
 	}
 	.head-last p {
-		font-size: 20px 
+		font-size: 18px 
 	}
 	@media screen and (max-width: 768px){
 		.head-last {
