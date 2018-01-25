@@ -18,8 +18,8 @@
 						</button>
 					</div>
 					<!-- Collect the nav links for toggling -->
-					<div class="collapse navbar-collapse navbar-ex1-collapse">
-						<ul class="nav navbar-nav navbar-right">
+					<div class="collapse">
+						<nav class="navbar navbar-right">
 							<li><div class="dropdown text-center">
 		 						<button class="dropbtn" onclick="window.location='/'">HOME</button>
 							</div></li>
