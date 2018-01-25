@@ -93,6 +93,10 @@
 		border-radius: 0px;
 	}
 
+	.navbar-inverse .navbar-toggle button {
+		color: var(--blue);
+	}
+
 	.navbar-inverse .navbar-toggle, 
 	.navbar-inverse .navbar-toggle:hover,
 	.navbar-inverse .navbar-toggle:active {
