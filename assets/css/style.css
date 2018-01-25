@@ -159,7 +159,6 @@
 	/* Change color of dropdown links on hover */
 	.dropdown-content a:hover {
 		background-color: var(--green);
-		border-radius: 6px;
 	}
 
 	/* Show the dropdown menu on hover */
