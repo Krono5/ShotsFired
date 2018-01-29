@@ -8,10 +8,11 @@
 		<?php include('header.php'); ?>
 
 		<iframe
-		  style="height: 100%; width: 100%;"
-		  src="ftb_revelation_1.12/api.html" allowfullscreen>
+		  	style="width:100%; height:calc(100% - 100px); 
+		  		 border:none; margin:0; padding:0; overflow:hidden;"
+		  	src="ftb_revelation_1.12/api.html" allowfullscreen>
 		</iframe>
-
+		
 		<?php include('footer.php'); ?>
 	</body>
 </html>
