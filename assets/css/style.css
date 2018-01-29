@@ -118,7 +118,7 @@
     	background-color: var(--green);
 	}
 
-    .navbar-collapse {
+    .navbar-collapse.collapse {
         height: 50px !important;
     }
 
