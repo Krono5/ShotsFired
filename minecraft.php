@@ -8,8 +8,12 @@
 		<?php include('header.php'); ?>
 
 		<iframe
-		  style="height: 100%; width: calc(100% - 50px);"
-		  src="ftb_revelation_1.12/index.html" allowfullscreen>
+		  style="position:fixed; 
+		  		 top:0px; left:0px; bottom:0px; right:0px; 
+		  		 width:calc(100% - 50px); height:100%; 
+		  		 border:none; margin:0; padding:0; 
+		  		 overflow:hidden; z-index:999999;"
+		  src="ftb_revelation_1.12/api.html" allowfullscreen>
 		</iframe>
 
 		<?php include('footer.php'); ?>
