@@ -9,7 +9,6 @@
 				&copy 2017
 				<a href="/#top_home">
 					shotsfired.xyz </a>
-				| All Right Reserved
 			</div>
 		</footer>
 		<script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
