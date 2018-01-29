@@ -75,6 +75,10 @@
     	text-decoration: none;
 	}
 
+    iframe {
+        display:block;
+    }
+
 /*=======================================
 	NAVIGATION STYLES
 	==================================================*/
