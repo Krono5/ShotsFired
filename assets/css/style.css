@@ -396,3 +396,7 @@
 		text-decoration : none;
 		color:#fff;
 	}
+
+    #footer for-full-back {
+        position: absolute;
+    }
