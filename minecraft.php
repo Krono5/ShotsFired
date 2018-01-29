@@ -9,7 +9,7 @@
 
 		<iframe
 		  style="position:absolute; 
-		  		 width:100%; height:calc(100% - 50px); 
+		  		 width:100%; height:100%; 
 		  		 border:none; margin:0; padding:0; 
 		  		 overflow:hidden; z-index:999999;"
 		  src="ftb_revelation_1.12/api.html" allowfullscreen>
