@@ -10,7 +10,7 @@
 		<iframe
 		  	style="width:100%; height:calc(100% - 100px); 
 		  		 border:none; margin:0; padding:0; overflow:hidden;"
-		  	src="ftb_revelation_1.12_dynmap/index.html" allowfullscreen>
+		  	src="http://localhost:24825" allowfullscreen>
 		</iframe>
 		
 		<?php include('footer.php'); ?>
