@@ -13,20 +13,17 @@
 		<?php include('header.php'); ?>
 
 		<script>
-			var params = {};
-			location.search.slice(1).split("&").forEach(function (kv) {
-			  var a = kv.split("=");
-			  params[decodeURIComponent(a[0])] = decodeURIComponent(a[1]) || "";
+			$.getJSON('https://api.twitch.tv/kraken/streams/mychannel?client_id=myclientid', function(channel) {
+
+			    if (channel["stream"] == null) { 
+			        $(".online").hide();
+			        $(".offline").show();
+
+			    } else {
+			        $(".offline").hide();
+			        $(".online").show();
+			    }
 			});
-
-			var channels = params["channels"] ? params["channels"].split(",") : ["riotgames", "dota2ti", "machinima", "lirik", "twitch", "manvsgame", "wyld"];
-
-			for(var i=0; i < channels.length; i++) {
-			  var channel = channels[i];
-			  var p = document.createElement("p");
-			  p.innerHTML = channel + ' = <img data-twitch-channel="' + channel + '">';
-			  document.body.appendChild(p);
-			}
 		</script>
 
 		<?php include("footer.php");?>
