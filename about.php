@@ -160,9 +160,7 @@
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="row">
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
               <img alt="" class="team-img" src="img/Lady_Loki.jpg">
@@ -189,9 +187,7 @@
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="row">
           <div class="col-sm-3 col-xs-6">
             <div class="card card-block">
               <img alt="" class="team-img" src="img/jamie5d.jpg">
@@ -218,7 +214,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div>        
       </div>
     </section>
 
