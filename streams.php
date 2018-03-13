@@ -13,7 +13,7 @@
 		<?php include('header.php'); ?>
 
 		<script>
-			$.getJSON('https://api.twitch.tv/kraken/streams/mychannel?client_id=myclientid', function(channel) {
+			$.getJSON('https://api.twitch.tv/kraken/streams/odega?client_id=xfiiyo0w03logp3tv54xydqp9yo94o', function(channel) {
 
 			    if (channel["stream"] == null) { 
 			        $(".online").hide();

@@ -29,12 +29,12 @@
                 </h4>
 
                 <nav class="social-nav">
-                  <a href="https://twitch.tv/odegacast" target="_blank">
+                  <a href="https://twitch.tv/odega" target="_blank">
                     <i class="fa fa-twitch"></i></a>
                 </nav>
 
                 <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                  I for one welcome our robot overlords.
                 </p>
               </div>
             </div>
@@ -92,8 +92,8 @@
                 </nav>
 
                 <p>
-                  Came here to report on eSports and play some horror games. <br>
-                  And she's all out of eSports.
+                  Came here to report on esports and play some horror games. <br>
+                  And she's all out of esports.
                 </p>
               </div>
             </div>
