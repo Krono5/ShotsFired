@@ -29,6 +29,7 @@
 
 <body>
 <div id="header"></div>
+
 <div id="home">
     <div class="container">
         <div class="row ">
@@ -42,37 +43,14 @@
 
             </div>
             <div class="col-md-4 col-sm-6">
-                <?php
-                $quote=array("Gold hundred is twelve.",
-                    "I spent 36 dollars on money.",
-                    "The nucleus is the powerhouse of the cell...",
-                    "Cats are more rubber than babies.",
-                    "Can I make coffee juice?",
-                    "Cacao my life!",
-                    "Close your door. I'll s**t on your floor.");
-                $author=array("Vitani",
-                    "Vitani",
-                    "Odega",
-                    "KR0N05",
-                    "KR0N05",
-                    "BabyDucks",
-                    "R3VAK");
-                $q_idx=rand(0,6);
-                ?>
-                <h3 align="left" class="rand-quote">
-                    <i>"<?php echo($quote[$q_idx]) ?>"</i>
-                </h3>
-                <p align="right" style="padding-right:20px; padding-bottom:40px; color: #fff">
-                    ~ <?php echo($author[$q_idx]) ?>
-                </p>
-
+                <h3 id="quoteDisplay" align="left" class="rand-quote"></h3>
+                <p id="nameDisplay" align="right" style="padding-right:20px; padding-bottom:40px; color: #fff"></p>
             </div>
 
         </div>
     </div>
 </div>
-<!--End Header section  -->
-<!--Services Section-->
+
 <section id="services">
     <div class="container">
         <div class="row text-center">
@@ -164,7 +142,7 @@
         </div>
     </div>
 
-
+    <script src="assets/js/quote-cycle.js"></script>
 </section>
 <div id="footer"></div>
 </body>
