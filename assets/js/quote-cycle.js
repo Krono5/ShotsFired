@@ -7,8 +7,11 @@ const quotes = {
     "Close your door. I'll s**t on your floor.": "R3VAK"
 };
 
-let randomNumber = (Math.floor(Math.random() * quotes.getLength()));
-let quote = quotes[randomNumber];
-document.getElementById('quoteDisplay').innerHTML = "\"" + quote.key + "\"";
-document.getElementById('nameDisplay').innerHTML = "~ " + quote.value;
+function getQuote() {
+    let randomNumber = (Math.floor(Math.random() * quotes.getLength()));
+    let quote = quotes[randomNumber];
+    document.getElementById('quoteDisplay').innerHTML = "\"" + quote.key + "\"";
+    document.getElementById('nameDisplay').innerHTML = "~ " + quote.value;
+}
 
+getQuote();
