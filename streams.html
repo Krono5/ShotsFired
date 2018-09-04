@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("header.html");
+        });
+    </script>
+
+    <script>
+        $(function(){
+            $("#footer").load("footer.html");
+        });
+    </script>
+</head>
+
+<body>
+<div id="header"></div>
+
+<script>
+    $.getJSON('https://api.twitch.tv/kraken/streams/odega?client_id=xfiiyo0w03logp3tv54xydqp9yo94o', function(channel) {
+
+        if (channel["stream"] == null) {
+            $(".online").hide();
+            $(".offline").show();
+
+        } else {
+            $(".offline").hide();
+            $(".online").show();
+        }
+    });
+</script>
+
+<div id="footer"></div>
+</body>
+</html>

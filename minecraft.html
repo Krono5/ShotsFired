@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script>
+        $(function(){
+            $("#header").load("header.html");
+        });
+	</script>
+
+	<script>
+        $(function(){
+            $("#footer").load("footer.html");
+        });
+	</script>
+</head>
+
+<body>
+<div id="header"></div>
+
+<iframe
+		style="width:100%; height:calc(100% - 100px);
+		  		 border:none; margin:0; padding:0; overflow:hidden;"
+		src="http://shotsfired.xyz:24825" allowfullscreen>
+</iframe>
+
+<div id="footer"></div>
+</body>
+</html>
