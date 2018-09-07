@@ -8,7 +8,7 @@ const quotes = {
 };
 
 function getQuote() {
-    let randomNumber = (Math.floor(Math.random() * Object.keys(quotes).length);
+    let randomNumber = Math.floor(Math.random() * Object.keys(quotes).length);
     let quote = Object.keys(quotes)[randomNumber];
     let author = quotes[quote];
     document.getElementById('quoteDisplay').innerText = "\"" + quote + "\"";
