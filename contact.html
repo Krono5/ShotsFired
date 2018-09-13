@@ -1,34 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>ShotsFired Team</title>
-    <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>ShotsFired Team</title>
+        <link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96x96.png">
+    </head>
+    <body>
+        <div id="header"></div>
+        <div id="footer"></div>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
-    <link rel="stylesheet" href="assets/css/style.css" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
+        <link rel="stylesheet" href="css/style.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script>
+            $(function(){
+                $("#header").load("header.html");
+            });
+        </script>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script>
-        $(function(){
-            $("#header").load("header.html");
-        });
-    </script>
-
-    <script>
-        $(function(){
-            $("#footer").load("footer.html");
-        });
-    </script>
-</head>
-
-<body>
-<div id="header"></div>
-<div id="footer"></div>
-</body>
+        <script>
+            $(function(){
+                $("#footer").load("footer.html");
+            });
+        </script>
+    </body>
 </html>
